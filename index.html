@@ -1114,6 +1114,33 @@
     var pad = function(n){ return String(n).padStart(2,"0"); };
     var currentIsoHour = now.getFullYear() + "-" + pad(now.getMonth()+1) + "-" + pad(now.getDate()) + "T" + pad(now.getHours()) + ":00";
     var hIdx = findCurrentHourIndex(hourly, currentIsoHour);
+    // --- Hourly Carousel (T-2 to T+4) ---
+var carouselEl = document.getElementById("hourly-carousel");
+if (carouselEl && hourly && hourly.time) {
+  var carouselHTML = "";
+  // Loop from 2 hours ago to 4 hours ahead
+  for (var i = hIdx - 2; i <= hIdx + 4; i++) {
+    if (i < 0 || i >= hourly.time.length) continue; // Skip if out of bounds
+
+    // Format time (e.g., "7 AM")
+    var dateObj = new Date(hourly.time[i]);
+    var timeStr = dateObj.toLocaleTimeString([], {hour: 'numeric'});
+    var hrTemp = Math.round(hourly.temperature_2m[i]);
+    
+    // Assign sizing classes based on distance from current time
+    var stateClass = "future-far";
+    if (i < hIdx) stateClass = "past";
+    else if (i === hIdx) stateClass = "current";
+    else if (i <= hIdx + 2) stateClass = "future-near";
+
+    // Build the tile
+    carouselHTML += '<div class="hourly-item ' + stateClass + '">' +
+                      '<div class="time">' + (i === hIdx ? 'NOW' : timeStr) + '</div>' +
+                      '<div class="temp">' + hrTemp + '°</div>' +
+                    '</div>';
+  }
+  carouselEl.innerHTML = carouselHTML;
+}
 
     var temp = current.temperature_2m !== undefined ? current.temperature_2m : 0;
     var feels = current.apparent_temperature !== undefined ? current.apparent_temperature : temp;
