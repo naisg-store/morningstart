@@ -1,0 +1,4082 @@
+[
+  {
+    "slug": "anchorage.html",
+    "name": "Anchorage",
+    "state": "AK",
+    "emoji": "🏔️",
+    "desc": "Glenn & Seward Hwy",
+    "lat": 61.2181,
+    "lon": -149.9003,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "fairbanks.html",
+    "name": "Fairbanks",
+    "state": "AK",
+    "emoji": "❄️",
+    "desc": "Parks & Richardson Highways",
+    "lat": 64.8378,
+    "lon": -147.7164,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "juneau.html",
+    "name": "Juneau",
+    "state": "AK",
+    "emoji": "🐻",
+    "desc": "Glacier Hwy & Egan Dr",
+    "lat": 58.3019,
+    "lon": -134.4197,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "wasilla.html",
+    "name": "Wasilla",
+    "state": "AK",
+    "emoji": "🏔️",
+    "desc": "Parks Hwy & Palmer-Wasilla Hwy",
+    "lat": 61.5814,
+    "lon": -149.4394,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "birmingham.html",
+    "name": "Birmingham",
+    "state": "AL",
+    "emoji": "🔨",
+    "desc": "I-65, I-20/59 & Red Mountain",
+    "lat": 33.5186,
+    "lon": -86.8104,
+    "region": "South Central"
+  },
+  {
+    "slug": "huntsville.html",
+    "name": "Huntsville",
+    "state": "AL",
+    "emoji": "🚀",
+    "desc": "I-565 & Memorial Pkwy",
+    "lat": 34.7304,
+    "lon": -86.5861,
+    "region": "South Central"
+  },
+  {
+    "slug": "mobile.html",
+    "name": "Mobile",
+    "state": "AL",
+    "emoji": "⚓",
+    "desc": "I-10 Tunnel & I-65",
+    "lat": 30.6954,
+    "lon": -88.0399,
+    "region": "South Central"
+  },
+  {
+    "slug": "montgomery.html",
+    "name": "Montgomery",
+    "state": "AL",
+    "emoji": "🏛️",
+    "desc": "I-65, I-85 & US-80",
+    "lat": 32.3668,
+    "lon": -86.3,
+    "region": "South Central"
+  },
+  {
+    "slug": "tuscaloosa.html",
+    "name": "Tuscaloosa",
+    "state": "AL",
+    "emoji": "🐘",
+    "desc": "I-359, US-82 & McFarland Blvd",
+    "lat": 33.2098,
+    "lon": -87.5692,
+    "region": "South Central"
+  },
+  {
+    "slug": "fayetteville-ar.html",
+    "name": "Fayetteville",
+    "state": "AR",
+    "emoji": "🐗",
+    "desc": "I-49 & US-71",
+    "lat": 36.0626,
+    "lon": -94.1574,
+    "region": "South Central"
+  },
+  {
+    "slug": "fort-smith.html",
+    "name": "Fort Smith",
+    "state": "AR",
+    "emoji": "🎸",
+    "desc": "I-540 & US-71",
+    "lat": 35.3859,
+    "lon": -94.3985,
+    "region": "South Central"
+  },
+  {
+    "slug": "jonesboro.html",
+    "name": "Jonesboro",
+    "state": "AR",
+    "emoji": "🌾",
+    "desc": "US-63 & Hwy 1",
+    "lat": 35.8423,
+    "lon": -90.7043,
+    "region": "South Central"
+  },
+  {
+    "slug": "little-rock.html",
+    "name": "Little Rock",
+    "state": "AR",
+    "emoji": "💎",
+    "desc": "I-630, I-30 & I-430",
+    "lat": 34.7465,
+    "lon": -92.2896,
+    "region": "South Central"
+  },
+  {
+    "slug": "chandler.html",
+    "name": "Chandler",
+    "state": "AZ",
+    "emoji": "🌵",
+    "desc": "US-60, Loop 101 & Loop 202",
+    "lat": 33.3062,
+    "lon": -111.8413,
+    "region": "Southwest"
+  },
+  {
+    "slug": "gilbert.html",
+    "name": "Gilbert",
+    "state": "AZ",
+    "emoji": "🌵",
+    "desc": "US-60, Loop 202 & Val Vista Dr",
+    "lat": 33.3528,
+    "lon": -111.789,
+    "region": "Southwest"
+  },
+  {
+    "slug": "glendale.html",
+    "name": "Glendale",
+    "state": "AZ",
+    "emoji": "🏈",
+    "desc": "I-17, Loop 101 & US-60",
+    "lat": 33.5387,
+    "lon": -112.186,
+    "region": "Southwest"
+  },
+  {
+    "slug": "mesa.html",
+    "name": "Mesa",
+    "state": "AZ",
+    "emoji": "🌵",
+    "desc": "US-60, Loop 202 & SR-24",
+    "lat": 33.4152,
+    "lon": -111.8315,
+    "region": "Southwest"
+  },
+  {
+    "slug": "peoria-az.html",
+    "name": "Peoria",
+    "state": "AZ",
+    "emoji": "🌵",
+    "desc": "Loop 101 & Grand Ave",
+    "lat": 33.5806,
+    "lon": -112.2374,
+    "region": "Southwest"
+  },
+  {
+    "slug": "phoenix.html",
+    "name": "Phoenix",
+    "state": "AZ",
+    "emoji": "🌵",
+    "desc": "I-10, Loop 101 & Loop 202",
+    "lat": 33.4484,
+    "lon": -112.074,
+    "region": "Southwest"
+  },
+  {
+    "slug": "scottsdale.html",
+    "name": "Scottsdale",
+    "state": "AZ",
+    "emoji": "🏜️",
+    "desc": "Loop 101 & Shea Blvd",
+    "lat": 33.4942,
+    "lon": -111.9261,
+    "region": "Southwest"
+  },
+  {
+    "slug": "surprise.html",
+    "name": "Surprise",
+    "state": "AZ",
+    "emoji": "🌵",
+    "desc": "Loop 303 & US-60",
+    "lat": 33.6292,
+    "lon": -112.3679,
+    "region": "Southwest"
+  },
+  {
+    "slug": "tempe.html",
+    "name": "Tempe",
+    "state": "AZ",
+    "emoji": "🎓",
+    "desc": "I-10, US-60 & Loop 202",
+    "lat": 33.4255,
+    "lon": -111.94,
+    "region": "Southwest"
+  },
+  {
+    "slug": "tucson.html",
+    "name": "Tucson",
+    "state": "AZ",
+    "emoji": "☀️",
+    "desc": "I-10 & I-19",
+    "lat": 32.2226,
+    "lon": -110.9747,
+    "region": "Southwest"
+  },
+  {
+    "slug": "alameda.html",
+    "name": "Alameda",
+    "state": "CA",
+    "emoji": "⚓",
+    "desc": "I-880 & CA-61",
+    "lat": 37.7652,
+    "lon": -122.2416,
+    "region": "NorCal"
+  },
+  {
+    "slug": "anaheim.html",
+    "name": "Anaheim",
+    "state": "CA",
+    "emoji": "🏒",
+    "desc": "I-5, 57 & 91 Interchange",
+    "lat": 33.8366,
+    "lon": -117.9143,
+    "region": "SoCal"
+  },
+  {
+    "slug": "antioch.html",
+    "name": "Antioch",
+    "state": "CA",
+    "emoji": "🌉",
+    "desc": "CA-4 & CA-160",
+    "lat": 38.0049,
+    "lon": -121.8058,
+    "region": "NorCal"
+  },
+  {
+    "slug": "bakersfield.html",
+    "name": "Bakersfield",
+    "state": "CA",
+    "emoji": "🛢️",
+    "desc": "CA-99, CA-58 & CA-178",
+    "lat": 35.3733,
+    "lon": -119.0187,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "berkeley.html",
+    "name": "Berkeley",
+    "state": "CA",
+    "emoji": "🎓",
+    "desc": "I-80 & CA-13",
+    "lat": 37.8715,
+    "lon": -122.273,
+    "region": "NorCal"
+  },
+  {
+    "slug": "burbank.html",
+    "name": "Burbank",
+    "state": "CA",
+    "emoji": "🎬",
+    "desc": "I-5 & CA-134",
+    "lat": 34.1808,
+    "lon": -118.3089,
+    "region": "SoCal"
+  },
+  {
+    "slug": "carlsbad.html",
+    "name": "Carlsbad",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "I-5 & CA-78",
+    "lat": 33.1581,
+    "lon": -117.3506,
+    "region": "SoCal"
+  },
+  {
+    "slug": "carson.html",
+    "name": "Carson",
+    "state": "CA",
+    "emoji": "🏭",
+    "desc": "I-405 & I-110",
+    "lat": 33.8317,
+    "lon": -118.282,
+    "region": "SoCal"
+  },
+  {
+    "slug": "chico.html",
+    "name": "Chico",
+    "state": "CA",
+    "emoji": "🌳",
+    "desc": "CA-99 & CA-32",
+    "lat": 39.7285,
+    "lon": -121.8375,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "chula-vista.html",
+    "name": "Chula Vista",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "I-5, I-805 & CA-54",
+    "lat": 32.6401,
+    "lon": -117.0842,
+    "region": "SoCal"
+  },
+  {
+    "slug": "clovis.html",
+    "name": "Clovis",
+    "state": "CA",
+    "emoji": "🍇",
+    "desc": "CA-168 & CA-41",
+    "lat": 36.8252,
+    "lon": -119.7029,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "compton.html",
+    "name": "Compton",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-710 & CA-91",
+    "lat": 33.8958,
+    "lon": -118.2201,
+    "region": "SoCal"
+  },
+  {
+    "slug": "concord.html",
+    "name": "Concord",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-680 & CA-242",
+    "lat": 37.978,
+    "lon": -122.0311,
+    "region": "NorCal"
+  },
+  {
+    "slug": "corona.html",
+    "name": "Corona",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "CA-91, I-15 & CA-71",
+    "lat": 33.8753,
+    "lon": -117.5664,
+    "region": "SoCal"
+  },
+  {
+    "slug": "costa-mesa.html",
+    "name": "Costa Mesa",
+    "state": "CA",
+    "emoji": "🏄",
+    "desc": "I-405 & CA-55",
+    "lat": 33.6411,
+    "lon": -117.9187,
+    "region": "SoCal"
+  },
+  {
+    "slug": "daly-city.html",
+    "name": "Daly City",
+    "state": "CA",
+    "emoji": "🌁",
+    "desc": "I-280 & CA-1",
+    "lat": 37.6879,
+    "lon": -122.4702,
+    "region": "NorCal"
+  },
+  {
+    "slug": "downey.html",
+    "name": "Downey",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-5 & I-605",
+    "lat": 33.9401,
+    "lon": -118.1332,
+    "region": "SoCal"
+  },
+  {
+    "slug": "el-monte.html",
+    "name": "El Monte",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-10 & I-605",
+    "lat": 34.0686,
+    "lon": -118.0276,
+    "region": "SoCal"
+  },
+  {
+    "slug": "elk-grove.html",
+    "name": "Elk Grove",
+    "state": "CA",
+    "emoji": "🏛️",
+    "desc": "CA-99 & I-5",
+    "lat": 38.4088,
+    "lon": -121.3716,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "escondido.html",
+    "name": "Escondido",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "I-15 & CA-78",
+    "lat": 33.1192,
+    "lon": -117.0864,
+    "region": "SoCal"
+  },
+  {
+    "slug": "fairfield.html",
+    "name": "Fairfield",
+    "state": "CA",
+    "emoji": "⚓",
+    "desc": "I-80 & CA-12",
+    "lat": 38.2494,
+    "lon": -122.04,
+    "region": "NorCal"
+  },
+  {
+    "slug": "fontana.html",
+    "name": "Fontana",
+    "state": "CA",
+    "emoji": "🏭",
+    "desc": "I-10, I-15 & CA-210",
+    "lat": 34.0922,
+    "lon": -117.435,
+    "region": "SoCal"
+  },
+  {
+    "slug": "fresno.html",
+    "name": "Fresno",
+    "state": "CA",
+    "emoji": "🍇",
+    "desc": "CA-99, CA-41 & CA-180",
+    "lat": 36.7378,
+    "lon": -119.7871,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "fullerton.html",
+    "name": "Fullerton",
+    "state": "CA",
+    "emoji": "🎓",
+    "desc": "CA-91 & CA-57",
+    "lat": 33.8704,
+    "lon": -117.9242,
+    "region": "SoCal"
+  },
+  {
+    "slug": "garden-grove.html",
+    "name": "Garden Grove",
+    "state": "CA",
+    "emoji": "🌸",
+    "desc": "CA-22 & CA-39",
+    "lat": 33.7739,
+    "lon": -117.9414,
+    "region": "SoCal"
+  },
+  {
+    "slug": "glendale-ca.html",
+    "name": "Glendale",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-5, CA-2 & CA-134",
+    "lat": 34.1425,
+    "lon": -118.2551,
+    "region": "SoCal"
+  },
+  {
+    "slug": "hayward.html",
+    "name": "Hayward",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-880 & CA-92",
+    "lat": 37.6688,
+    "lon": -122.0808,
+    "region": "NorCal"
+  },
+  {
+    "slug": "hemet.html",
+    "name": "Hemet",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "CA-74 & CA-79",
+    "lat": 33.7475,
+    "lon": -116.9719,
+    "region": "SoCal"
+  },
+  {
+    "slug": "huntington-beach.html",
+    "name": "Huntington Beach",
+    "state": "CA",
+    "emoji": "🏄",
+    "desc": "PCH, Beach Blvd & 405 Corridors",
+    "lat": 33.6595,
+    "lon": -117.9988,
+    "region": "SoCal"
+  },
+  {
+    "slug": "indio.html",
+    "name": "Indio",
+    "state": "CA",
+    "emoji": "🏜️",
+    "desc": "I-10 & CA-111",
+    "lat": 33.7206,
+    "lon": -116.2156,
+    "region": "Desert"
+  },
+  {
+    "slug": "inglewood.html",
+    "name": "Inglewood",
+    "state": "CA",
+    "emoji": "🏟️",
+    "desc": "I-405 & CA-105",
+    "lat": 33.9617,
+    "lon": -118.3531,
+    "region": "SoCal"
+  },
+  {
+    "slug": "irvine.html",
+    "name": "Irvine",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "5, 405, 133 & 241 Toll Roads",
+    "lat": 33.6846,
+    "lon": -117.8265,
+    "region": "SoCal"
+  },
+  {
+    "slug": "lancaster.html",
+    "name": "Lancaster",
+    "state": "CA",
+    "emoji": "🏜️",
+    "desc": "CA-14 & CA-138",
+    "lat": 34.6868,
+    "lon": -118.1542,
+    "region": "Desert"
+  },
+  {
+    "slug": "livermore.html",
+    "name": "Livermore",
+    "state": "CA",
+    "emoji": "🍷",
+    "desc": "I-580 & I-680",
+    "lat": 37.6819,
+    "lon": -121.768,
+    "region": "NorCal"
+  },
+  {
+    "slug": "long-beach.html",
+    "name": "Long Beach",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "I-710, I-405 & CA-1",
+    "lat": 33.7701,
+    "lon": -118.1937,
+    "region": "SoCal"
+  },
+  {
+    "slug": "los-angeles.html",
+    "name": "Los Angeles",
+    "state": "CA",
+    "emoji": "🌴",
+    "desc": "I-10, 405, 101 & 5 Corridors",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "region": "SoCal"
+  },
+  {
+    "slug": "manteca.html",
+    "name": "Manteca",
+    "state": "CA",
+    "emoji": "🚢",
+    "desc": "CA-99 & CA-120",
+    "lat": 37.7974,
+    "lon": -121.2161,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "merced.html",
+    "name": "Merced",
+    "state": "CA",
+    "emoji": "🎓",
+    "desc": "CA-99 & CA-140",
+    "lat": 37.3022,
+    "lon": -120.483,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "milpitas.html",
+    "name": "Milpitas",
+    "state": "CA",
+    "emoji": "💻",
+    "desc": "I-880 & CA-237",
+    "lat": 37.4283,
+    "lon": -121.9066,
+    "region": "NorCal"
+  },
+  {
+    "slug": "mission-viejo.html",
+    "name": "Mission Viejo",
+    "state": "CA",
+    "emoji": "🌳",
+    "desc": "I-5 & CA-241",
+    "lat": 33.6,
+    "lon": -117.672,
+    "region": "SoCal"
+  },
+  {
+    "slug": "moreno-valley.html",
+    "name": "Moreno Valley",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "CA-60 & I-215",
+    "lat": 33.9425,
+    "lon": -117.2297,
+    "region": "SoCal"
+  },
+  {
+    "slug": "murrieta.html",
+    "name": "Murrieta",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "I-15 & I-215",
+    "lat": 33.5539,
+    "lon": -117.2139,
+    "region": "SoCal"
+  },
+  {
+    "slug": "napa.html",
+    "name": "Napa",
+    "state": "CA",
+    "emoji": "🍷",
+    "desc": "CA-29 & CA-12",
+    "lat": 38.2975,
+    "lon": -122.2869,
+    "region": "NorCal"
+  },
+  {
+    "slug": "norwalk.html",
+    "name": "Norwalk",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-5 & I-605",
+    "lat": 33.9022,
+    "lon": -118.0817,
+    "region": "SoCal"
+  },
+  {
+    "slug": "oakland.html",
+    "name": "Oakland",
+    "state": "CA",
+    "emoji": "⚓",
+    "desc": "I-880, I-580 & CA-24",
+    "lat": 37.8044,
+    "lon": -122.2712,
+    "region": "NorCal"
+  },
+  {
+    "slug": "oceanside.html",
+    "name": "Oceanside",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "I-5 & CA-78",
+    "lat": 33.1959,
+    "lon": -117.3795,
+    "region": "SoCal"
+  },
+  {
+    "slug": "ontario.html",
+    "name": "Ontario",
+    "state": "CA",
+    "emoji": "✈️",
+    "desc": "I-10, I-15 & CA-60",
+    "lat": 34.0633,
+    "lon": -117.6509,
+    "region": "SoCal"
+  },
+  {
+    "slug": "orange.html",
+    "name": "Orange",
+    "state": "CA",
+    "emoji": "🍊",
+    "desc": "CA-55 & CA-22",
+    "lat": 33.7879,
+    "lon": -117.8531,
+    "region": "SoCal"
+  },
+  {
+    "slug": "oxnard.html",
+    "name": "Oxnard",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "US-101 & CA-1",
+    "lat": 34.1975,
+    "lon": -119.1771,
+    "region": "SoCal"
+  },
+  {
+    "slug": "palmdale.html",
+    "name": "Palmdale",
+    "state": "CA",
+    "emoji": "🏜️",
+    "desc": "CA-14 & CA-138",
+    "lat": 34.5794,
+    "lon": -118.1165,
+    "region": "Desert"
+  },
+  {
+    "slug": "pasadena.html",
+    "name": "Pasadena",
+    "state": "CA",
+    "emoji": "🌹",
+    "desc": "I-210, CA-134 & CA-110",
+    "lat": 34.1478,
+    "lon": -118.1445,
+    "region": "SoCal"
+  },
+  {
+    "slug": "pomona.html",
+    "name": "Pomona",
+    "state": "CA",
+    "emoji": "🎓",
+    "desc": "I-10, CA-57 & CA-71",
+    "lat": 34.0551,
+    "lon": -117.75,
+    "region": "SoCal"
+  },
+  {
+    "slug": "rancho-cordova.html",
+    "name": "Rancho Cordova",
+    "state": "CA",
+    "emoji": "🏛️",
+    "desc": "US-50 & CA-16",
+    "lat": 38.5891,
+    "lon": -121.3027,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "rancho-cucamonga.html",
+    "name": "Rancho Cucamonga",
+    "state": "CA",
+    "emoji": "⛰️",
+    "desc": "I-15 & CA-210",
+    "lat": 34.1064,
+    "lon": -117.5931,
+    "region": "SoCal"
+  },
+  {
+    "slug": "redding.html",
+    "name": "Redding",
+    "state": "CA",
+    "emoji": "🌲",
+    "desc": "I-5 & CA-44",
+    "lat": 40.5865,
+    "lon": -122.3917,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "rialto.html",
+    "name": "Rialto",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "I-10 & CA-210",
+    "lat": 34.1064,
+    "lon": -117.3703,
+    "region": "SoCal"
+  },
+  {
+    "slug": "richmond-ca.html",
+    "name": "Richmond",
+    "state": "CA",
+    "emoji": "⚓",
+    "desc": "I-80 & I-580",
+    "lat": 37.9358,
+    "lon": -122.3477,
+    "region": "NorCal"
+  },
+  {
+    "slug": "riverside.html",
+    "name": "Riverside",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "CA-91, CA-60 & I-215",
+    "lat": 33.9806,
+    "lon": -117.3755,
+    "region": "SoCal"
+  },
+  {
+    "slug": "roseville.html",
+    "name": "Roseville",
+    "state": "CA",
+    "emoji": "🏛️",
+    "desc": "I-80 & CA-65",
+    "lat": 38.7521,
+    "lon": -121.288,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "sacramento.html",
+    "name": "Sacramento",
+    "state": "CA",
+    "emoji": "🏛️",
+    "desc": "I-80, US-50 & I-5",
+    "lat": 38.5816,
+    "lon": -121.4944,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "salinas.html",
+    "name": "Salinas",
+    "state": "CA",
+    "emoji": "🥬",
+    "desc": "US-101 & CA-68",
+    "lat": 36.6777,
+    "lon": -121.6555,
+    "region": "SoCal"
+  },
+  {
+    "slug": "san-bernardino.html",
+    "name": "San Bernardino",
+    "state": "CA",
+    "emoji": "⛰️",
+    "desc": "I-10, I-215 & CA-210",
+    "lat": 34.1083,
+    "lon": -117.2898,
+    "region": "SoCal"
+  },
+  {
+    "slug": "san-diego.html",
+    "name": "San Diego",
+    "state": "CA",
+    "emoji": "☀️",
+    "desc": "I-5, I-15 & I-8 Corridors",
+    "lat": 32.7157,
+    "lon": -117.1611,
+    "region": "SoCal"
+  },
+  {
+    "slug": "san-francisco.html",
+    "name": "San Francisco",
+    "state": "CA",
+    "emoji": "🌁",
+    "desc": "Bay Bridge & US-101",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "region": "NorCal"
+  },
+  {
+    "slug": "san-jose.html",
+    "name": "San Jose",
+    "state": "CA",
+    "emoji": "💻",
+    "desc": "US-101, I-280 & CA-85",
+    "lat": 37.3382,
+    "lon": -121.8863,
+    "region": "NorCal"
+  },
+  {
+    "slug": "san-leandro.html",
+    "name": "San Leandro",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-880 & CA-185",
+    "lat": 37.7249,
+    "lon": -122.1561,
+    "region": "NorCal"
+  },
+  {
+    "slug": "san-mateo.html",
+    "name": "San Mateo",
+    "state": "CA",
+    "emoji": "🌉",
+    "desc": "US-101 & CA-92",
+    "lat": 37.563,
+    "lon": -122.3255,
+    "region": "NorCal"
+  },
+  {
+    "slug": "santa-ana.html",
+    "name": "Santa Ana",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-5, SR-55 & SR-22",
+    "lat": 33.7455,
+    "lon": -117.8677,
+    "region": "SoCal"
+  },
+  {
+    "slug": "santa-barbara.html",
+    "name": "Santa Barbara",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "US-101 & CA-154",
+    "lat": 34.4208,
+    "lon": -119.6982,
+    "region": "SoCal"
+  },
+  {
+    "slug": "santa-clara.html",
+    "name": "Santa Clara",
+    "state": "CA",
+    "emoji": "💻",
+    "desc": "US-101 & CA-82",
+    "lat": 37.3541,
+    "lon": -121.9552,
+    "region": "NorCal"
+  },
+  {
+    "slug": "santa-clarita.html",
+    "name": "Santa Clarita",
+    "state": "CA",
+    "emoji": "🏔️",
+    "desc": "I-5 & CA-14",
+    "lat": 34.3917,
+    "lon": -118.5426,
+    "region": "SoCal"
+  },
+  {
+    "slug": "santa-monica.html",
+    "name": "Santa Monica",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "I-10 & PCH",
+    "lat": 34.0195,
+    "lon": -118.4912,
+    "region": "SoCal"
+  },
+  {
+    "slug": "santa-rosa.html",
+    "name": "Santa Rosa",
+    "state": "CA",
+    "emoji": "🍇",
+    "desc": "US-101 & CA-12",
+    "lat": 38.4404,
+    "lon": -122.7141,
+    "region": "NorCal"
+  },
+  {
+    "slug": "simi-valley.html",
+    "name": "Simi Valley",
+    "state": "CA",
+    "emoji": "⛰️",
+    "desc": "CA-118 & CA-23",
+    "lat": 34.2694,
+    "lon": -118.7815,
+    "region": "SoCal"
+  },
+  {
+    "slug": "south-gate.html",
+    "name": "South Gate",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "I-710 & Firestone Blvd",
+    "lat": 33.9547,
+    "lon": -118.212,
+    "region": "SoCal"
+  },
+  {
+    "slug": "stockton.html",
+    "name": "Stockton",
+    "state": "CA",
+    "emoji": "🚢",
+    "desc": "I-5, CA-99 & CA-4",
+    "lat": 37.9577,
+    "lon": -121.2908,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "sunnyvale.html",
+    "name": "Sunnyvale",
+    "state": "CA",
+    "emoji": "💻",
+    "desc": "US-101 & CA-85",
+    "lat": 37.3688,
+    "lon": -122.0363,
+    "region": "NorCal"
+  },
+  {
+    "slug": "temecula.html",
+    "name": "Temecula",
+    "state": "CA",
+    "emoji": "🍇",
+    "desc": "I-15 & CA-79",
+    "lat": 33.4936,
+    "lon": -117.1484,
+    "region": "SoCal"
+  },
+  {
+    "slug": "thousand-oaks.html",
+    "name": "Thousand Oaks",
+    "state": "CA",
+    "emoji": "🌳",
+    "desc": "US-101 & CA-23",
+    "lat": 34.1706,
+    "lon": -118.8376,
+    "region": "SoCal"
+  },
+  {
+    "slug": "torrance.html",
+    "name": "Torrance",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "I-405 & CA-107",
+    "lat": 33.8358,
+    "lon": -118.3406,
+    "region": "SoCal"
+  },
+  {
+    "slug": "tracy.html",
+    "name": "Tracy",
+    "state": "CA",
+    "emoji": "🚢",
+    "desc": "I-5 & I-205",
+    "lat": 37.7397,
+    "lon": -121.4252,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "turlock.html",
+    "name": "Turlock",
+    "state": "CA",
+    "emoji": "🥛",
+    "desc": "CA-99 & CA-165",
+    "lat": 37.4947,
+    "lon": -120.8466,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "vallejo.html",
+    "name": "Vallejo",
+    "state": "CA",
+    "emoji": "⚓",
+    "desc": "I-80 & CA-37",
+    "lat": 38.1041,
+    "lon": -122.2566,
+    "region": "NorCal"
+  },
+  {
+    "slug": "ventura.html",
+    "name": "Ventura",
+    "state": "CA",
+    "emoji": "🌊",
+    "desc": "US-101 & CA-126",
+    "lat": 34.2746,
+    "lon": -119.229,
+    "region": "SoCal"
+  },
+  {
+    "slug": "victorville.html",
+    "name": "Victorville",
+    "state": "CA",
+    "emoji": "🏜️",
+    "desc": "I-15 & CA-18",
+    "lat": 34.5361,
+    "lon": -117.2928,
+    "region": "Desert"
+  },
+  {
+    "slug": "visalia.html",
+    "name": "Visalia",
+    "state": "CA",
+    "emoji": "🍇",
+    "desc": "CA-99 & CA-198",
+    "lat": 36.3302,
+    "lon": -119.2921,
+    "region": "Central Valley"
+  },
+  {
+    "slug": "westminster.html",
+    "name": "Westminster",
+    "state": "CA",
+    "emoji": "🏙️",
+    "desc": "CA-22 & CA-39",
+    "lat": 33.7513,
+    "lon": -117.9939,
+    "region": "SoCal"
+  },
+  {
+    "slug": "aurora-co.html",
+    "name": "Aurora",
+    "state": "CO",
+    "emoji": "⛰️",
+    "desc": "I-70, E-470 & Colfax Ave",
+    "lat": 39.7294,
+    "lon": -104.8319,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "colorado-springs.html",
+    "name": "Colorado Springs",
+    "state": "CO",
+    "emoji": "⛰️",
+    "desc": "I-25 & US-24",
+    "lat": 38.8339,
+    "lon": -104.8214,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "denver.html",
+    "name": "Denver",
+    "state": "CO",
+    "emoji": "🏔️",
+    "desc": "I-25, I-70 & C-470",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "fort-collins.html",
+    "name": "Fort Collins",
+    "state": "CO",
+    "emoji": "🏔️",
+    "desc": "I-25 & US-287",
+    "lat": 40.5853,
+    "lon": -105.0844,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "bridgeport.html",
+    "name": "Bridgeport",
+    "state": "CT",
+    "emoji": "🌊",
+    "desc": "I-95 & Merritt Pkwy",
+    "lat": 41.1792,
+    "lon": -73.1894,
+    "region": "Northeast"
+  },
+  {
+    "slug": "hartford.html",
+    "name": "Hartford",
+    "state": "CT",
+    "emoji": "🏢",
+    "desc": "I-91, I-84 & CT-2",
+    "lat": 41.7658,
+    "lon": -72.6734,
+    "region": "Northeast"
+  },
+  {
+    "slug": "new-haven.html",
+    "name": "New Haven",
+    "state": "CT",
+    "emoji": "🎓",
+    "desc": "I-95, I-91 & Route 34",
+    "lat": 41.3083,
+    "lon": -72.9279,
+    "region": "Northeast"
+  },
+  {
+    "slug": "stamford.html",
+    "name": "Stamford",
+    "state": "CT",
+    "emoji": "🏙️",
+    "desc": "I-95 & Merritt Pkwy",
+    "lat": 41.0534,
+    "lon": -73.5387,
+    "region": "Northeast"
+  },
+  {
+    "slug": "washington-dc.html",
+    "name": "Washington",
+    "state": "DC",
+    "emoji": "🏛️",
+    "desc": "I-495 Beltway, I-66 & I-95",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "dover.html",
+    "name": "Dover",
+    "state": "DE",
+    "emoji": "🏛️",
+    "desc": "US-13, Route 1 & SR-8",
+    "lat": 39.1582,
+    "lon": -75.5244,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "newark-de.html",
+    "name": "Newark",
+    "state": "DE",
+    "emoji": "🎓",
+    "desc": "I-95 & Route 273",
+    "lat": 39.6837,
+    "lon": -75.7497,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "rehoboth-beach.html",
+    "name": "Rehoboth Beach",
+    "state": "DE",
+    "emoji": "🏖️",
+    "desc": "Route 1 & Route 24",
+    "lat": 38.7215,
+    "lon": -75.076,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "wilmington.html",
+    "name": "Wilmington",
+    "state": "DE",
+    "emoji": "🏛️",
+    "desc": "I-95, I-495 & Concord Pike",
+    "lat": 39.7391,
+    "lon": -75.5398,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "boca-raton.html",
+    "name": "Boca Raton",
+    "state": "FL",
+    "emoji": "🐊",
+    "desc": "I-95 & Florida Turnpike",
+    "lat": 26.3683,
+    "lon": -80.1289,
+    "region": "Florida"
+  },
+  {
+    "slug": "cape-coral.html",
+    "name": "Cape Coral",
+    "state": "FL",
+    "emoji": "🦩",
+    "desc": "Cape Coral Pkwy & Veterans Pkwy",
+    "lat": 26.5629,
+    "lon": -81.9495,
+    "region": "Florida"
+  },
+  {
+    "slug": "clearwater.html",
+    "name": "Clearwater",
+    "state": "FL",
+    "emoji": "☀️",
+    "desc": "US-19 & SR-60",
+    "lat": 27.9659,
+    "lon": -82.8001,
+    "region": "Florida"
+  },
+  {
+    "slug": "hollywood.html",
+    "name": "Coral Springs",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "Sample Rd & University Dr",
+    "lat": 26.2712,
+    "lon": -80.2706,
+    "region": "Florida"
+  },
+  {
+    "slug": "davie.html",
+    "name": "Davie",
+    "state": "FL",
+    "emoji": "🐴",
+    "desc": "I-595 & Florida Turnpike",
+    "lat": 26.0765,
+    "lon": -80.2521,
+    "region": "Florida"
+  },
+  {
+    "slug": "deltona.html",
+    "name": "Deltona",
+    "state": "FL",
+    "emoji": "🌳",
+    "desc": "I-4 & Howland Blvd",
+    "lat": 28.9005,
+    "lon": -81.2637,
+    "region": "Florida"
+  },
+  {
+    "slug": "fort-lauderdale.html",
+    "name": "Fort Lauderdale",
+    "state": "FL",
+    "emoji": "🛥️",
+    "desc": "I-95, I-595 & US-1",
+    "lat": 26.1224,
+    "lon": -80.1373,
+    "region": "Florida"
+  },
+  {
+    "slug": "hialeah.html",
+    "name": "Hialeah",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-75, Palmetto Expy & Okeechobee Rd",
+    "lat": 25.8576,
+    "lon": -80.2781,
+    "region": "Florida"
+  },
+  {
+    "slug": "jacksonville.html",
+    "name": "Jacksonville",
+    "state": "FL",
+    "emoji": "🐆",
+    "desc": "I-295 Beltway & I-95",
+    "lat": 30.3322,
+    "lon": -81.6557,
+    "region": "Florida"
+  },
+  {
+    "slug": "lakeland.html",
+    "name": "Lakeland",
+    "state": "FL",
+    "emoji": "🍊",
+    "desc": "I-4 & US-98",
+    "lat": 28.0395,
+    "lon": -81.9498,
+    "region": "Florida"
+  },
+  {
+    "slug": "melbourne.html",
+    "name": "Melbourne",
+    "state": "FL",
+    "emoji": "🚀",
+    "desc": "I-95 & US-192",
+    "lat": 28.0836,
+    "lon": -80.6081,
+    "region": "Florida"
+  },
+  {
+    "slug": "miami.html",
+    "name": "Miami",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-95 & Palmetto Expy",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "region": "Florida"
+  },
+  {
+    "slug": "miami-gardens.html",
+    "name": "Miami Gardens",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-95 & Florida Turnpike",
+    "lat": 25.942,
+    "lon": -80.2456,
+    "region": "Florida"
+  },
+  {
+    "slug": "miramar.html",
+    "name": "Miramar",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-75 & Florida Turnpike",
+    "lat": 25.9873,
+    "lon": -80.2323,
+    "region": "Florida"
+  },
+  {
+    "slug": "orlando.html",
+    "name": "Orlando",
+    "state": "FL",
+    "emoji": "🏰",
+    "desc": "I-4, SR-408 & SR-528",
+    "lat": 28.5383,
+    "lon": -81.3792,
+    "region": "Florida"
+  },
+  {
+    "slug": "palm-bay.html",
+    "name": "Palm Bay",
+    "state": "FL",
+    "emoji": "🚀",
+    "desc": "I-95 & Malabar Rd",
+    "lat": 28.0345,
+    "lon": -80.5887,
+    "region": "Florida"
+  },
+  {
+    "slug": "plantation.html",
+    "name": "Plantation",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-595 & University Dr",
+    "lat": 26.1276,
+    "lon": -80.2331,
+    "region": "Florida"
+  },
+  {
+    "slug": "pompano-beach.html",
+    "name": "Pompano Beach",
+    "state": "FL",
+    "emoji": "🏖️",
+    "desc": "I-95 & Sample Rd",
+    "lat": 26.2379,
+    "lon": -80.1248,
+    "region": "Florida"
+  },
+  {
+    "slug": "port-st-lucie.html",
+    "name": "Port St. Lucie",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-95 & Florida Turnpike",
+    "lat": 27.273,
+    "lon": -80.3582,
+    "region": "Florida"
+  },
+  {
+    "slug": "st-petersburg.html",
+    "name": "St. Petersburg",
+    "state": "FL",
+    "emoji": "☀️",
+    "desc": "I-275 & US-19",
+    "lat": 27.7676,
+    "lon": -82.6403,
+    "region": "Florida"
+  },
+  {
+    "slug": "sunrise.html",
+    "name": "Sunrise",
+    "state": "FL",
+    "emoji": "🌅",
+    "desc": "I-595 & Sawgrass Expy",
+    "lat": 26.166,
+    "lon": -80.2564,
+    "region": "Florida"
+  },
+  {
+    "slug": "tallahassee.html",
+    "name": "Tallahassee",
+    "state": "FL",
+    "emoji": "🏛️",
+    "desc": "I-10 & Capital Circle",
+    "lat": 30.4383,
+    "lon": -84.2807,
+    "region": "Florida"
+  },
+  {
+    "slug": "tampa.html",
+    "name": "Tampa",
+    "state": "FL",
+    "emoji": "⚡",
+    "desc": "I-275, I-4 & Howard Frankland",
+    "lat": 27.9506,
+    "lon": -82.4572,
+    "region": "Florida"
+  },
+  {
+    "slug": "west-palm-beach.html",
+    "name": "West Palm Beach",
+    "state": "FL",
+    "emoji": "🌴",
+    "desc": "I-95 & Florida Turnpike",
+    "lat": 26.7153,
+    "lon": -80.0534,
+    "region": "Florida"
+  },
+  {
+    "slug": "atlanta.html",
+    "name": "Atlanta",
+    "state": "GA",
+    "emoji": "🍑",
+    "desc": "I-285 Perimeter & I-75/85",
+    "lat": 33.749,
+    "lon": -84.388,
+    "region": "Southeast"
+  },
+  {
+    "slug": "augusta-ga.html",
+    "name": "Augusta",
+    "state": "GA",
+    "emoji": "⛳",
+    "desc": "I-20, I-520 & Washington Rd",
+    "lat": 33.4735,
+    "lon": -82.0105,
+    "region": "Southeast"
+  },
+  {
+    "slug": "columbus-ga.html",
+    "name": "Columbus",
+    "state": "GA",
+    "emoji": "🌊",
+    "desc": "I-185 & US-27",
+    "lat": 32.461,
+    "lon": -84.9877,
+    "region": "Southeast"
+  },
+  {
+    "slug": "savannah.html",
+    "name": "Savannah",
+    "state": "GA",
+    "emoji": "🌳",
+    "desc": "I-95, I-16 & Truman Pkwy",
+    "lat": 32.0809,
+    "lon": -81.0912,
+    "region": "Southeast"
+  },
+  {
+    "slug": "hilo.html",
+    "name": "Hilo",
+    "state": "HI",
+    "emoji": "🌋",
+    "desc": "Hawaii Belt Rd & Saddle Rd",
+    "lat": 19.7297,
+    "lon": -155.09,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "honolulu.html",
+    "name": "Honolulu",
+    "state": "HI",
+    "emoji": "🌺",
+    "desc": "H-1, H-2 & Pali Hwy",
+    "lat": 21.3069,
+    "lon": -157.8583,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "kailua-kona.html",
+    "name": "Kailua-Kona",
+    "state": "HI",
+    "emoji": "🌺",
+    "desc": "Hwy 11 & Hwy 19",
+    "lat": 19.64,
+    "lon": -155.9969,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "lahaina.html",
+    "name": "Lahaina",
+    "state": "HI",
+    "emoji": "🌺",
+    "desc": "Honoapiilani Hwy",
+    "lat": 20.8783,
+    "lon": -156.6825,
+    "region": "Alaska & Hawaii"
+  },
+  {
+    "slug": "cedar-rapids.html",
+    "name": "Cedar Rapids",
+    "state": "IA",
+    "emoji": "🌽",
+    "desc": "I-380 & US-30",
+    "lat": 41.9779,
+    "lon": -91.6656,
+    "region": "Midwest"
+  },
+  {
+    "slug": "davenport.html",
+    "name": "Davenport",
+    "state": "IA",
+    "emoji": "🌊",
+    "desc": "I-80, I-280 & US-61",
+    "lat": 41.5236,
+    "lon": -90.5776,
+    "region": "Midwest"
+  },
+  {
+    "slug": "des-moines.html",
+    "name": "Des Moines",
+    "state": "IA",
+    "emoji": "🌾",
+    "desc": "I-235, I-35 & I-80",
+    "lat": 41.5868,
+    "lon": -93.625,
+    "region": "Midwest"
+  },
+  {
+    "slug": "iowa-city.html",
+    "name": "Iowa City",
+    "state": "IA",
+    "emoji": "🎓",
+    "desc": "I-80 & US-6",
+    "lat": 41.6611,
+    "lon": -91.5302,
+    "region": "Midwest"
+  },
+  {
+    "slug": "boise.html",
+    "name": "Boise",
+    "state": "ID",
+    "emoji": "🥔",
+    "desc": "I-84 Connector & State St",
+    "lat": 43.615,
+    "lon": -116.2023,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "coeur-dalene.html",
+    "name": "Coeur d'Alene",
+    "state": "ID",
+    "emoji": "🏔️",
+    "desc": "I-90 & US-95",
+    "lat": 47.6777,
+    "lon": -116.7805,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "idaho-falls.html",
+    "name": "Idaho Falls",
+    "state": "ID",
+    "emoji": "🥔",
+    "desc": "I-15 & US-20",
+    "lat": 43.4917,
+    "lon": -112.0339,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "nampa.html",
+    "name": "Nampa",
+    "state": "ID",
+    "emoji": "🌾",
+    "desc": "I-84 & SH-55",
+    "lat": 43.5407,
+    "lon": -116.5635,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "aurora.html",
+    "name": "Aurora",
+    "state": "IL",
+    "emoji": "🏙️",
+    "desc": "I-88 Tollway & IL-59",
+    "lat": 41.7606,
+    "lon": -88.3201,
+    "region": "Midwest"
+  },
+  {
+    "slug": "chicago.html",
+    "name": "Chicago",
+    "state": "IL",
+    "emoji": "💨",
+    "desc": "I-90/94 & Eisenhower",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "region": "Midwest"
+  },
+  {
+    "slug": "naperville.html",
+    "name": "Naperville",
+    "state": "IL",
+    "emoji": "🏙️",
+    "desc": "I-88 & Route 59",
+    "lat": 41.7508,
+    "lon": -88.1535,
+    "region": "Midwest"
+  },
+  {
+    "slug": "rockford.html",
+    "name": "Rockford",
+    "state": "IL",
+    "emoji": "🏭",
+    "desc": "I-90 & I-39",
+    "lat": 42.2711,
+    "lon": -89.094,
+    "region": "Midwest"
+  },
+  {
+    "slug": "springfield-il.html",
+    "name": "Springfield",
+    "state": "IL",
+    "emoji": "🏛️",
+    "desc": "I-55, I-72 & Route 29",
+    "lat": 39.7817,
+    "lon": -89.6501,
+    "region": "Midwest"
+  },
+  {
+    "slug": "evansville.html",
+    "name": "Evansville",
+    "state": "IN",
+    "emoji": "🌊",
+    "desc": "I-69 & US-41",
+    "lat": 37.9716,
+    "lon": -87.5711,
+    "region": "Midwest"
+  },
+  {
+    "slug": "fort-wayne.html",
+    "name": "Fort Wayne",
+    "state": "IN",
+    "emoji": "🏛️",
+    "desc": "I-69, US-30 & US-24",
+    "lat": 41.0793,
+    "lon": -85.1394,
+    "region": "Midwest"
+  },
+  {
+    "slug": "indianapolis.html",
+    "name": "Indianapolis",
+    "state": "IN",
+    "emoji": "🏎️",
+    "desc": "I-465 Loop, I-65 & I-69",
+    "lat": 39.7684,
+    "lon": -86.1581,
+    "region": "Midwest"
+  },
+  {
+    "slug": "south-bend.html",
+    "name": "South Bend",
+    "state": "IN",
+    "emoji": "🏈",
+    "desc": "I-80/90 & US-31",
+    "lat": 41.6764,
+    "lon": -86.252,
+    "region": "Midwest"
+  },
+  {
+    "slug": "kansas-city-ks.html",
+    "name": "Kansas City",
+    "state": "KS",
+    "emoji": "🏭",
+    "desc": "I-70, I-635 & I-435",
+    "lat": 39.1142,
+    "lon": -94.6275,
+    "region": "Midwest"
+  },
+  {
+    "slug": "olathe.html",
+    "name": "Olathe",
+    "state": "KS",
+    "emoji": "🌾",
+    "desc": "I-35 & US-169",
+    "lat": 38.8814,
+    "lon": -94.8191,
+    "region": "Midwest"
+  },
+  {
+    "slug": "overland-park.html",
+    "name": "Overland Park",
+    "state": "KS",
+    "emoji": "🏙️",
+    "desc": "I-435 & US-69",
+    "lat": 38.9822,
+    "lon": -94.6708,
+    "region": "Midwest"
+  },
+  {
+    "slug": "topeka.html",
+    "name": "Topeka",
+    "state": "KS",
+    "emoji": "🏛️",
+    "desc": "I-70 & I-470",
+    "lat": 39.0473,
+    "lon": -95.6752,
+    "region": "Midwest"
+  },
+  {
+    "slug": "wichita.html",
+    "name": "Wichita",
+    "state": "KS",
+    "emoji": "✈️",
+    "desc": "K-96, US-54 & I-135",
+    "lat": 37.6872,
+    "lon": -97.3301,
+    "region": "Midwest"
+  },
+  {
+    "slug": "bowling-green.html",
+    "name": "Bowling Green",
+    "state": "KY",
+    "emoji": "🚗",
+    "desc": "I-65 & US-31W",
+    "lat": 36.9685,
+    "lon": -86.4808,
+    "region": "South Central"
+  },
+  {
+    "slug": "frankfort.html",
+    "name": "Frankfort",
+    "state": "KY",
+    "emoji": "🏛️",
+    "desc": "I-64 & US-60",
+    "lat": 38.2009,
+    "lon": -84.8733,
+    "region": "South Central"
+  },
+  {
+    "slug": "lexington.html",
+    "name": "Lexington",
+    "state": "KY",
+    "emoji": "🐴",
+    "desc": "New Circle Rd & I-75",
+    "lat": 38.0406,
+    "lon": -84.5037,
+    "region": "South Central"
+  },
+  {
+    "slug": "louisville.html",
+    "name": "Louisville",
+    "state": "KY",
+    "emoji": "🐎",
+    "desc": "I-264 Watterson, I-65 & I-71",
+    "lat": 38.2527,
+    "lon": -85.7585,
+    "region": "South Central"
+  },
+  {
+    "slug": "baton-rouge.html",
+    "name": "Baton Rouge",
+    "state": "LA",
+    "emoji": "🐊",
+    "desc": "I-10 Bridge & I-12",
+    "lat": 30.4515,
+    "lon": -91.1871,
+    "region": "South Central"
+  },
+  {
+    "slug": "lafayette.html",
+    "name": "Lafayette",
+    "state": "LA",
+    "emoji": "🐊",
+    "desc": "I-10 & I-49",
+    "lat": 30.2241,
+    "lon": -92.0198,
+    "region": "South Central"
+  },
+  {
+    "slug": "new-orleans.html",
+    "name": "New Orleans",
+    "state": "LA",
+    "emoji": "🎷",
+    "desc": "I-10, Pontchartrain & US-90E",
+    "lat": 29.9511,
+    "lon": -90.0715,
+    "region": "South Central"
+  },
+  {
+    "slug": "shreveport.html",
+    "name": "Shreveport",
+    "state": "LA",
+    "emoji": "🎷",
+    "desc": "I-20 & I-49",
+    "lat": 32.5252,
+    "lon": -93.7502,
+    "region": "South Central"
+  },
+  {
+    "slug": "boston.html",
+    "name": "Boston",
+    "state": "MA",
+    "emoji": "🏛️",
+    "desc": "I-93 Expy, I-90 & Route 128",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "region": "Northeast"
+  },
+  {
+    "slug": "cambridge.html",
+    "name": "Cambridge",
+    "state": "MA",
+    "emoji": "🎓",
+    "desc": "I-93 & Route 2",
+    "lat": 42.3736,
+    "lon": -71.1097,
+    "region": "Northeast"
+  },
+  {
+    "slug": "springfield-ma.html",
+    "name": "Springfield",
+    "state": "MA",
+    "emoji": "🏭",
+    "desc": "I-91 & I-291",
+    "lat": 42.1015,
+    "lon": -72.5898,
+    "region": "Northeast"
+  },
+  {
+    "slug": "worcester.html",
+    "name": "Worcester",
+    "state": "MA",
+    "emoji": "🏭",
+    "desc": "I-290 & Mass Pike",
+    "lat": 42.2626,
+    "lon": -71.8023,
+    "region": "Northeast"
+  },
+  {
+    "slug": "annapolis.html",
+    "name": "Annapolis",
+    "state": "MD",
+    "emoji": "⚓",
+    "desc": "US-50, US-301 & I-97",
+    "lat": 38.9784,
+    "lon": -76.4922,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "baltimore.html",
+    "name": "Baltimore",
+    "state": "MD",
+    "emoji": "🦀",
+    "desc": "I-695 Beltway & I-95",
+    "lat": 39.2904,
+    "lon": -76.6122,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "frederick.html",
+    "name": "Frederick",
+    "state": "MD",
+    "emoji": "⛰️",
+    "desc": "I-70, I-270 & US-15",
+    "lat": 39.4143,
+    "lon": -77.4105,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "hunt-valley.html",
+    "name": "Hunt Valley",
+    "state": "MD",
+    "emoji": "🏢",
+    "desc": "I-83 & Shawan Rd",
+    "lat": 39.4934,
+    "lon": -76.6427,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "rockville.html",
+    "name": "Rockville",
+    "state": "MD",
+    "emoji": "🏙️",
+    "desc": "I-270 & I-370",
+    "lat": 39.084,
+    "lon": -77.1528,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "augusta-me.html",
+    "name": "Augusta",
+    "state": "ME",
+    "emoji": "🏛️",
+    "desc": "I-95 & Route 3",
+    "lat": 44.3106,
+    "lon": -69.7795,
+    "region": "Northeast"
+  },
+  {
+    "slug": "bangor.html",
+    "name": "Bangor",
+    "state": "ME",
+    "emoji": "🌲",
+    "desc": "I-95 & I-395",
+    "lat": 44.8016,
+    "lon": -68.7712,
+    "region": "Northeast"
+  },
+  {
+    "slug": "lewiston.html",
+    "name": "Lewiston",
+    "state": "ME",
+    "emoji": "🏭",
+    "desc": "I-95 & Route 196",
+    "lat": 44.1004,
+    "lon": -70.2148,
+    "region": "Northeast"
+  },
+  {
+    "slug": "portland-me.html",
+    "name": "Portland",
+    "state": "ME",
+    "emoji": "🦞",
+    "desc": "I-95 Maine Turnpike & I-295",
+    "lat": 43.6591,
+    "lon": -70.2568,
+    "region": "Northeast"
+  },
+  {
+    "slug": "ann-arbor.html",
+    "name": "Ann Arbor",
+    "state": "MI",
+    "emoji": "🎓",
+    "desc": "I-94 & US-23",
+    "lat": 42.2808,
+    "lon": -83.743,
+    "region": "Midwest"
+  },
+  {
+    "slug": "detroit.html",
+    "name": "Detroit",
+    "state": "MI",
+    "emoji": "🚗",
+    "desc": "I-75, I-94 & Lodge Fwy",
+    "lat": 42.3314,
+    "lon": -83.0458,
+    "region": "Midwest"
+  },
+  {
+    "slug": "grand-rapids.html",
+    "name": "Grand Rapids",
+    "state": "MI",
+    "emoji": "🍺",
+    "desc": "US-131, I-196 & I-96",
+    "lat": 42.9634,
+    "lon": -85.6681,
+    "region": "Midwest"
+  },
+  {
+    "slug": "lansing.html",
+    "name": "Lansing",
+    "state": "MI",
+    "emoji": "🏛️",
+    "desc": "I-96, I-69 & US-127",
+    "lat": 42.7325,
+    "lon": -84.5555,
+    "region": "Midwest"
+  },
+  {
+    "slug": "duluth.html",
+    "name": "Duluth",
+    "state": "MN",
+    "emoji": "🚢",
+    "desc": "I-35 & US-53",
+    "lat": 46.7867,
+    "lon": -92.1005,
+    "region": "Midwest"
+  },
+  {
+    "slug": "minneapolis.html",
+    "name": "Minneapolis",
+    "state": "MN",
+    "emoji": "❄️",
+    "desc": "I-35W, I-94 & US-169",
+    "lat": 44.9778,
+    "lon": -93.265,
+    "region": "Midwest"
+  },
+  {
+    "slug": "rochester-mn.html",
+    "name": "Rochester",
+    "state": "MN",
+    "emoji": "🏥",
+    "desc": "US-52 & I-90",
+    "lat": 44.0121,
+    "lon": -92.4802,
+    "region": "Midwest"
+  },
+  {
+    "slug": "st-paul.html",
+    "name": "St. Paul",
+    "state": "MN",
+    "emoji": "🏛️",
+    "desc": "I-94 & I-35E",
+    "lat": 44.9537,
+    "lon": -93.09,
+    "region": "Midwest"
+  },
+  {
+    "slug": "columbia-mo.html",
+    "name": "Columbia",
+    "state": "MO",
+    "emoji": "🎓",
+    "desc": "I-70 & US-63",
+    "lat": 38.9517,
+    "lon": -92.3341,
+    "region": "Midwest"
+  },
+  {
+    "slug": "kansas-city.html",
+    "name": "Kansas City",
+    "state": "MO",
+    "emoji": "🥩",
+    "desc": "I-435 Loop, I-35 & I-70",
+    "lat": 39.0997,
+    "lon": -94.5786,
+    "region": "Midwest"
+  },
+  {
+    "slug": "springfield-mo.html",
+    "name": "Springfield",
+    "state": "MO",
+    "emoji": "🏞️",
+    "desc": "I-44 & US-65",
+    "lat": 37.209,
+    "lon": -93.2923,
+    "region": "Midwest"
+  },
+  {
+    "slug": "st-louis.html",
+    "name": "St. Louis",
+    "state": "MO",
+    "emoji": "⛩️",
+    "desc": "I-64, I-70 & I-44",
+    "lat": 38.627,
+    "lon": -90.1994,
+    "region": "Midwest"
+  },
+  {
+    "slug": "biloxi.html",
+    "name": "Biloxi",
+    "state": "MS",
+    "emoji": "🎰",
+    "desc": "I-110 & US-90",
+    "lat": 30.396,
+    "lon": -88.8853,
+    "region": "South Central"
+  },
+  {
+    "slug": "gulfport.html",
+    "name": "Gulfport",
+    "state": "MS",
+    "emoji": "🌊",
+    "desc": "I-10, US-49 & US-90",
+    "lat": 30.3674,
+    "lon": -89.0928,
+    "region": "South Central"
+  },
+  {
+    "slug": "hattiesburg.html",
+    "name": "Hattiesburg",
+    "state": "MS",
+    "emoji": "🌲",
+    "desc": "I-59 & US-49",
+    "lat": 31.3271,
+    "lon": -89.2903,
+    "region": "South Central"
+  },
+  {
+    "slug": "jackson.html",
+    "name": "Jackson",
+    "state": "MS",
+    "emoji": "🎷",
+    "desc": "I-55, I-20 & Woodrow Wilson",
+    "lat": 32.2988,
+    "lon": -90.1848,
+    "region": "South Central"
+  },
+  {
+    "slug": "billings.html",
+    "name": "Billings",
+    "state": "MT",
+    "emoji": "🏔️",
+    "desc": "I-90 & Airport Rd",
+    "lat": 45.7833,
+    "lon": -108.5007,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "bozeman.html",
+    "name": "Bozeman",
+    "state": "MT",
+    "emoji": "🏔️",
+    "desc": "I-90 & US-191",
+    "lat": 45.677,
+    "lon": -111.0429,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "great-falls.html",
+    "name": "Great Falls",
+    "state": "MT",
+    "emoji": "🌊",
+    "desc": "I-15 & US-87",
+    "lat": 47.5053,
+    "lon": -111.3008,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "helena.html",
+    "name": "Helena",
+    "state": "MT",
+    "emoji": "🏛️",
+    "desc": "I-15 & US-12",
+    "lat": 46.5891,
+    "lon": -112.0391,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "missoula.html",
+    "name": "Missoula",
+    "state": "MT",
+    "emoji": "🏔️",
+    "desc": "I-90 & US-93",
+    "lat": 46.8721,
+    "lon": -113.994,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "asheville.html",
+    "name": "Asheville",
+    "state": "NC",
+    "emoji": "⛰️",
+    "desc": "I-40 & I-26",
+    "lat": 35.5951,
+    "lon": -82.5515,
+    "region": "Southeast"
+  },
+  {
+    "slug": "charlotte.html",
+    "name": "Charlotte",
+    "state": "NC",
+    "emoji": "👑",
+    "desc": "I-485 Loop, I-77 & I-85",
+    "lat": 35.2271,
+    "lon": -80.8431,
+    "region": "Southeast"
+  },
+  {
+    "slug": "durham.html",
+    "name": "Durham",
+    "state": "NC",
+    "emoji": "🔬",
+    "desc": "NC-147 Fwy, I-85 & I-40",
+    "lat": 35.994,
+    "lon": -78.8986,
+    "region": "Southeast"
+  },
+  {
+    "slug": "fayetteville.html",
+    "name": "Fayetteville",
+    "state": "NC",
+    "emoji": "🌲",
+    "desc": "I-95, US-401 & All American Fwy",
+    "lat": 35.0527,
+    "lon": -78.8784,
+    "region": "Southeast"
+  },
+  {
+    "slug": "greensboro.html",
+    "name": "Greensboro",
+    "state": "NC",
+    "emoji": "🌳",
+    "desc": "I-40, I-85 & US-220",
+    "lat": 36.0726,
+    "lon": -79.792,
+    "region": "Southeast"
+  },
+  {
+    "slug": "raleigh.html",
+    "name": "Raleigh",
+    "state": "NC",
+    "emoji": "🌲",
+    "desc": "I-40, I-440 Beltline & US-1",
+    "lat": 35.7796,
+    "lon": -78.6382,
+    "region": "Southeast"
+  },
+  {
+    "slug": "wilmington-nc.html",
+    "name": "Wilmington",
+    "state": "NC",
+    "emoji": "🌊",
+    "desc": "I-40 & US-17",
+    "lat": 34.2257,
+    "lon": -77.9447,
+    "region": "Southeast"
+  },
+  {
+    "slug": "winston-salem.html",
+    "name": "Winston-Salem",
+    "state": "NC",
+    "emoji": "🌿",
+    "desc": "US-52, I-40 & Business 40",
+    "lat": 36.0999,
+    "lon": -80.2442,
+    "region": "Southeast"
+  },
+  {
+    "slug": "bismarck.html",
+    "name": "Bismarck",
+    "state": "ND",
+    "emoji": "🌾",
+    "desc": "I-94 & US-83",
+    "lat": 46.8083,
+    "lon": -100.7837,
+    "region": "Midwest"
+  },
+  {
+    "slug": "fargo.html",
+    "name": "Fargo",
+    "state": "ND",
+    "emoji": "🌾",
+    "desc": "I-29, I-94 & 45th St",
+    "lat": 46.8772,
+    "lon": -96.7898,
+    "region": "Midwest"
+  },
+  {
+    "slug": "grand-forks.html",
+    "name": "Grand Forks",
+    "state": "ND",
+    "emoji": "❄️",
+    "desc": "I-29 & US-2",
+    "lat": 47.9253,
+    "lon": -97.0329,
+    "region": "Midwest"
+  },
+  {
+    "slug": "minot.html",
+    "name": "Minot",
+    "state": "ND",
+    "emoji": "🌾",
+    "desc": "US-83 & US-2",
+    "lat": 48.233,
+    "lon": -101.2957,
+    "region": "Midwest"
+  },
+  {
+    "slug": "bellevue-ne.html",
+    "name": "Bellevue",
+    "state": "NE",
+    "emoji": "✈️",
+    "desc": "I-80 & US-75",
+    "lat": 41.1544,
+    "lon": -95.9145,
+    "region": "Midwest"
+  },
+  {
+    "slug": "grand-island.html",
+    "name": "Grand Island",
+    "state": "NE",
+    "emoji": "🌾",
+    "desc": "I-80 & US-281",
+    "lat": 40.9264,
+    "lon": -98.342,
+    "region": "Midwest"
+  },
+  {
+    "slug": "lincoln.html",
+    "name": "Lincoln",
+    "state": "NE",
+    "emoji": "🌽",
+    "desc": "I-80, US-77 & Cornhusker Hwy",
+    "lat": 40.8136,
+    "lon": -96.7026,
+    "region": "Midwest"
+  },
+  {
+    "slug": "omaha.html",
+    "name": "Omaha",
+    "state": "NE",
+    "emoji": "🌽",
+    "desc": "I-80 & I-680",
+    "lat": 41.2565,
+    "lon": -95.9345,
+    "region": "Midwest"
+  },
+  {
+    "slug": "concord.html",
+    "name": "Concord",
+    "state": "NH",
+    "emoji": "🍁",
+    "desc": "I-93 & I-89",
+    "lat": 43.2081,
+    "lon": -71.5376,
+    "region": "Northeast"
+  },
+  {
+    "slug": "manchester.html",
+    "name": "Manchester",
+    "state": "NH",
+    "emoji": "🏔️",
+    "desc": "I-93, Everett Tpke & Route 101",
+    "lat": 42.9956,
+    "lon": -71.4548,
+    "region": "Northeast"
+  },
+  {
+    "slug": "nashua.html",
+    "name": "Nashua",
+    "state": "NH",
+    "emoji": "🏭",
+    "desc": "US-3 & Everett Tpke",
+    "lat": 42.7654,
+    "lon": -71.4676,
+    "region": "Northeast"
+  },
+  {
+    "slug": "portsmouth-nh.html",
+    "name": "Portsmouth",
+    "state": "NH",
+    "emoji": "⚓",
+    "desc": "I-95 & US-1",
+    "lat": 43.0718,
+    "lon": -70.7626,
+    "region": "Northeast"
+  },
+  {
+    "slug": "atlantic-city.html",
+    "name": "Atlantic City",
+    "state": "NJ",
+    "emoji": "🎰",
+    "desc": "AC Expy & Garden State Pkwy",
+    "lat": 39.3643,
+    "lon": -74.4229,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "jersey-city.html",
+    "name": "Jersey City",
+    "state": "NJ",
+    "emoji": "🏙️",
+    "desc": "Holland Tunnel & US-1/9",
+    "lat": 40.7178,
+    "lon": -74.0431,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "newark.html",
+    "name": "Newark",
+    "state": "NJ",
+    "emoji": "🧱",
+    "desc": "NJ Turnpike, I-280 & Rt 22",
+    "lat": 40.7357,
+    "lon": -74.1724,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "trenton.html",
+    "name": "Trenton",
+    "state": "NJ",
+    "emoji": "🏛️",
+    "desc": "I-295 & Route 1",
+    "lat": 40.2171,
+    "lon": -74.7429,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "albuquerque.html",
+    "name": "Albuquerque",
+    "state": "NM",
+    "emoji": "🌶️",
+    "desc": "I-25 & I-40",
+    "lat": 35.0844,
+    "lon": -106.6504,
+    "region": "Southwest"
+  },
+  {
+    "slug": "las-cruces.html",
+    "name": "Las Cruces",
+    "state": "NM",
+    "emoji": "🌶️",
+    "desc": "I-10 & I-25",
+    "lat": 32.3199,
+    "lon": -106.7637,
+    "region": "Southwest"
+  },
+  {
+    "slug": "rio-rancho.html",
+    "name": "Rio Rancho",
+    "state": "NM",
+    "emoji": "🏜️",
+    "desc": "US-550 & NM-528",
+    "lat": 35.2328,
+    "lon": -106.663,
+    "region": "Southwest"
+  },
+  {
+    "slug": "santa-fe.html",
+    "name": "Santa Fe",
+    "state": "NM",
+    "emoji": "🌶️",
+    "desc": "I-25 & US-84/285",
+    "lat": 35.687,
+    "lon": -105.9378,
+    "region": "Southwest"
+  },
+  {
+    "slug": "carson-city.html",
+    "name": "Carson City",
+    "state": "NV",
+    "emoji": "🏛️",
+    "desc": "US-395 & I-580",
+    "lat": 39.1638,
+    "lon": -119.7674,
+    "region": "Southwest"
+  },
+  {
+    "slug": "henderson.html",
+    "name": "Henderson",
+    "state": "NV",
+    "emoji": "🎰",
+    "desc": "I-515, US-93 & Green Valley Pkwy",
+    "lat": 36.0395,
+    "lon": -114.9817,
+    "region": "Southwest"
+  },
+  {
+    "slug": "las-vegas.html",
+    "name": "Las Vegas",
+    "state": "NV",
+    "emoji": "🎰",
+    "desc": "I-15, CC-215 & US-95",
+    "lat": 36.1699,
+    "lon": -115.1398,
+    "region": "Southwest"
+  },
+  {
+    "slug": "north-las-vegas.html",
+    "name": "North Las Vegas",
+    "state": "NV",
+    "emoji": "🎰",
+    "desc": "I-15, US-95 & CC-215",
+    "lat": 36.1989,
+    "lon": -115.1175,
+    "region": "Southwest"
+  },
+  {
+    "slug": "reno.html",
+    "name": "Reno",
+    "state": "NV",
+    "emoji": "🏔️",
+    "desc": "I-80 & US-395",
+    "lat": 39.5296,
+    "lon": -119.8138,
+    "region": "Southwest"
+  },
+  {
+    "slug": "sparks.html",
+    "name": "Sparks",
+    "state": "NV",
+    "emoji": "🎰",
+    "desc": "I-80 & US-395",
+    "lat": 39.5349,
+    "lon": -119.7527,
+    "region": "Southwest"
+  },
+  {
+    "slug": "albany.html",
+    "name": "Albany",
+    "state": "NY",
+    "emoji": "🏛️",
+    "desc": "I-87, I-90 & I-787",
+    "lat": 42.6526,
+    "lon": -73.7562,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "brooklyn.html",
+    "name": "Brooklyn",
+    "state": "NY",
+    "emoji": "🌉",
+    "desc": "BQE & Belt Pkwy",
+    "lat": 40.6782,
+    "lon": -73.9442,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "buffalo.html",
+    "name": "Buffalo",
+    "state": "NY",
+    "emoji": "🦬",
+    "desc": "I-190 & I-90 Thruway",
+    "lat": 42.8864,
+    "lon": -78.8784,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "new-york.html",
+    "name": "New York",
+    "state": "NY",
+    "emoji": "🗽",
+    "desc": "I-495 LIE & Cross Bronx",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "queens.html",
+    "name": "Queens",
+    "state": "NY",
+    "emoji": "✈️",
+    "desc": "Grand Central & Van Wyck",
+    "lat": 40.7282,
+    "lon": -73.7949,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "rochester.html",
+    "name": "Rochester",
+    "state": "NY",
+    "emoji": "📸",
+    "desc": "I-490 & I-590 Outer Loop",
+    "lat": 43.1566,
+    "lon": -77.6088,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "syracuse.html",
+    "name": "Syracuse",
+    "state": "NY",
+    "emoji": "❄️",
+    "desc": "I-81 & I-90",
+    "lat": 43.0481,
+    "lon": -76.1474,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "akron.html",
+    "name": "Akron",
+    "state": "OH",
+    "emoji": "🚗",
+    "desc": "I-76, I-77 & Route 8",
+    "lat": 41.0814,
+    "lon": -81.519,
+    "region": "Midwest"
+  },
+  {
+    "slug": "cincinnati.html",
+    "name": "Cincinnati",
+    "state": "OH",
+    "emoji": "🌶️",
+    "desc": "I-75, I-71 & I-275",
+    "lat": 39.1031,
+    "lon": -84.512,
+    "region": "Midwest"
+  },
+  {
+    "slug": "cleveland.html",
+    "name": "Cleveland",
+    "state": "OH",
+    "emoji": "🎸",
+    "desc": "I-90, I-71 & I-480",
+    "lat": 41.4993,
+    "lon": -81.6944,
+    "region": "Midwest"
+  },
+  {
+    "slug": "columbus.html",
+    "name": "Columbus",
+    "state": "OH",
+    "emoji": "🌰",
+    "desc": "I-270 Outerbelt & I-71",
+    "lat": 39.9612,
+    "lon": -82.9988,
+    "region": "Midwest"
+  },
+  {
+    "slug": "dayton.html",
+    "name": "Dayton",
+    "state": "OH",
+    "emoji": "✈️",
+    "desc": "I-70, I-75 & US-35",
+    "lat": 39.7589,
+    "lon": -84.1916,
+    "region": "Midwest"
+  },
+  {
+    "slug": "toledo.html",
+    "name": "Toledo",
+    "state": "OH",
+    "emoji": "🌊",
+    "desc": "I-75, I-80/90 & I-475",
+    "lat": 41.6528,
+    "lon": -83.5379,
+    "region": "Midwest"
+  },
+  {
+    "slug": "broken-arrow.html",
+    "name": "Broken Arrow",
+    "state": "OK",
+    "emoji": "🏹",
+    "desc": "US-64 & Kenosha St",
+    "lat": 36.0526,
+    "lon": -95.7908,
+    "region": "South Central"
+  },
+  {
+    "slug": "edmond.html",
+    "name": "Edmond",
+    "state": "OK",
+    "emoji": "🏙️",
+    "desc": "I-35 & Kilpatrick Tpke",
+    "lat": 35.6528,
+    "lon": -97.4781,
+    "region": "South Central"
+  },
+  {
+    "slug": "lawton.html",
+    "name": "Lawton",
+    "state": "OK",
+    "emoji": "🎖️",
+    "desc": "I-44 & US-62",
+    "lat": 34.6036,
+    "lon": -98.3959,
+    "region": "South Central"
+  },
+  {
+    "slug": "norman.html",
+    "name": "Norman",
+    "state": "OK",
+    "emoji": "🐂",
+    "desc": "I-35 & Route 9",
+    "lat": 35.2226,
+    "lon": -97.4395,
+    "region": "South Central"
+  },
+  {
+    "slug": "oklahoma-city.html",
+    "name": "Oklahoma City",
+    "state": "OK",
+    "emoji": "⚡",
+    "desc": "I-35, I-40 & Kilpatrick",
+    "lat": 35.4676,
+    "lon": -97.5164,
+    "region": "South Central"
+  },
+  {
+    "slug": "tulsa.html",
+    "name": "Tulsa",
+    "state": "OK",
+    "emoji": "🛢️",
+    "desc": "I-44, Broken Arrow & Creek",
+    "lat": 36.154,
+    "lon": -95.9928,
+    "region": "South Central"
+  },
+  {
+    "slug": "albany-or.html",
+    "name": "Albany",
+    "state": "OR",
+    "emoji": "🌲",
+    "desc": "I-5 & US-20",
+    "lat": 44.6365,
+    "lon": -123.1059,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "beaverton.html",
+    "name": "Beaverton",
+    "state": "OR",
+    "emoji": "🏙️",
+    "desc": "US-26 & OR-217",
+    "lat": 45.4871,
+    "lon": -122.8037,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "bend.html",
+    "name": "Bend",
+    "state": "OR",
+    "emoji": "🏔️",
+    "desc": "US-97 & Route 20",
+    "lat": 44.0582,
+    "lon": -121.3153,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "corvallis.html",
+    "name": "Corvallis",
+    "state": "OR",
+    "emoji": "🎓",
+    "desc": "US-20 & OR-34",
+    "lat": 44.5646,
+    "lon": -123.262,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "eugene.html",
+    "name": "Eugene",
+    "state": "OR",
+    "emoji": "🌲",
+    "desc": "I-5 & Route 126",
+    "lat": 44.0521,
+    "lon": -123.0868,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "gresham.html",
+    "name": "Gresham",
+    "state": "OR",
+    "emoji": "🏙️",
+    "desc": "I-84 & US-26",
+    "lat": 45.4985,
+    "lon": -122.4302,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "hillsboro.html",
+    "name": "Hillsboro",
+    "state": "OR",
+    "emoji": "💻",
+    "desc": "US-26 & OR-8",
+    "lat": 45.5229,
+    "lon": -122.9898,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "lake-oswego.html",
+    "name": "Lake Oswego",
+    "state": "OR",
+    "emoji": "🌲",
+    "desc": "I-5 & OR-43",
+    "lat": 45.4207,
+    "lon": -122.6706,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "medford.html",
+    "name": "Medford",
+    "state": "OR",
+    "emoji": "🌲",
+    "desc": "I-5 & OR-62",
+    "lat": 42.3265,
+    "lon": -122.8756,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "portland.html",
+    "name": "Portland",
+    "state": "OR",
+    "emoji": "🚲",
+    "desc": "I-5, I-205 & US-26",
+    "lat": 45.5152,
+    "lon": -122.6784,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "salem.html",
+    "name": "Salem",
+    "state": "OR",
+    "emoji": "🏛️",
+    "desc": "I-5 & Route 22",
+    "lat": 44.9429,
+    "lon": -123.0351,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "springfield-or.html",
+    "name": "Springfield",
+    "state": "OR",
+    "emoji": "🌲",
+    "desc": "I-5 & OR-126",
+    "lat": 44.0462,
+    "lon": -123.022,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "tigard.html",
+    "name": "Tigard",
+    "state": "OR",
+    "emoji": "🏙️",
+    "desc": "I-5 & OR-99W",
+    "lat": 45.4312,
+    "lon": -122.7715,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "allentown.html",
+    "name": "Allentown",
+    "state": "PA",
+    "emoji": "🏭",
+    "desc": "I-78 & Route 22",
+    "lat": 40.6084,
+    "lon": -75.4902,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "harrisburg.html",
+    "name": "Harrisburg",
+    "state": "PA",
+    "emoji": "🏛️",
+    "desc": "I-83, I-81 & Route 322",
+    "lat": 40.2732,
+    "lon": -76.8867,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "philadelphia.html",
+    "name": "Philadelphia",
+    "state": "PA",
+    "emoji": "🔔",
+    "desc": "I-76 Schuylkill & I-95",
+    "lat": 39.9526,
+    "lon": -75.1652,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "pittsburgh.html",
+    "name": "Pittsburgh",
+    "state": "PA",
+    "emoji": "🌉",
+    "desc": "I-376 Parkway & I-279",
+    "lat": 40.4406,
+    "lon": -79.9959,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "cranston.html",
+    "name": "Cranston",
+    "state": "RI",
+    "emoji": "🏭",
+    "desc": "I-95 & Route 37",
+    "lat": 41.7798,
+    "lon": -71.4372,
+    "region": "Northeast"
+  },
+  {
+    "slug": "newport.html",
+    "name": "Newport",
+    "state": "RI",
+    "emoji": "⚓",
+    "desc": "Route 138 & America's Cup Ave",
+    "lat": 41.4901,
+    "lon": -71.3128,
+    "region": "Northeast"
+  },
+  {
+    "slug": "providence.html",
+    "name": "Providence",
+    "state": "RI",
+    "emoji": "⚓",
+    "desc": "I-95 & I-195 Corridors",
+    "lat": 41.824,
+    "lon": -71.4128,
+    "region": "Northeast"
+  },
+  {
+    "slug": "warwick.html",
+    "name": "Warwick",
+    "state": "RI",
+    "emoji": "✈️",
+    "desc": "I-95, Route 37 & Post Rd",
+    "lat": 41.7001,
+    "lon": -71.4162,
+    "region": "Northeast"
+  },
+  {
+    "slug": "charleston.html",
+    "name": "Charleston",
+    "state": "SC",
+    "emoji": "⚓",
+    "desc": "I-26, US-17 & I-526",
+    "lat": 32.7765,
+    "lon": -79.9311,
+    "region": "Southeast"
+  },
+  {
+    "slug": "columbia.html",
+    "name": "Columbia",
+    "state": "SC",
+    "emoji": "🏛️",
+    "desc": "I-26, I-20 & I-77",
+    "lat": 34.0007,
+    "lon": -81.0348,
+    "region": "Southeast"
+  },
+  {
+    "slug": "greenville.html",
+    "name": "Greenville",
+    "state": "SC",
+    "emoji": "🏔️",
+    "desc": "I-85 & I-385",
+    "lat": 34.8526,
+    "lon": -82.394,
+    "region": "Southeast"
+  },
+  {
+    "slug": "myrtle-beach.html",
+    "name": "Myrtle Beach",
+    "state": "SC",
+    "emoji": "🏖️",
+    "desc": "US-17 & SC-31",
+    "lat": 33.6891,
+    "lon": -78.8867,
+    "region": "Southeast"
+  },
+  {
+    "slug": "aberdeen-sd.html",
+    "name": "Aberdeen",
+    "state": "SD",
+    "emoji": "🌾",
+    "desc": "US-12 & US-281",
+    "lat": 45.4647,
+    "lon": -98.4865,
+    "region": "Midwest"
+  },
+  {
+    "slug": "pierre.html",
+    "name": "Pierre",
+    "state": "SD",
+    "emoji": "🏛️",
+    "desc": "US-14 & US-83",
+    "lat": 44.3683,
+    "lon": -100.351,
+    "region": "Midwest"
+  },
+  {
+    "slug": "rapid-city.html",
+    "name": "Rapid City",
+    "state": "SD",
+    "emoji": "⛰️",
+    "desc": "I-90 & US-16",
+    "lat": 44.0805,
+    "lon": -103.231,
+    "region": "Midwest"
+  },
+  {
+    "slug": "sioux-falls.html",
+    "name": "Sioux Falls",
+    "state": "SD",
+    "emoji": "🌊",
+    "desc": "I-29, I-90 & Minnesota Ave",
+    "lat": 43.546,
+    "lon": -96.7313,
+    "region": "Midwest"
+  },
+  {
+    "slug": "chattanooga.html",
+    "name": "Chattanooga",
+    "state": "TN",
+    "emoji": "🏔️",
+    "desc": "I-24, I-75 & US-27",
+    "lat": 35.0456,
+    "lon": -85.3097,
+    "region": "South Central"
+  },
+  {
+    "slug": "knoxville.html",
+    "name": "Knoxville",
+    "state": "TN",
+    "emoji": "⛰️",
+    "desc": "I-40, I-75 & Pellissippi",
+    "lat": 35.9606,
+    "lon": -83.9207,
+    "region": "South Central"
+  },
+  {
+    "slug": "memphis.html",
+    "name": "Memphis",
+    "state": "TN",
+    "emoji": "🎵",
+    "desc": "I-240 Loop, I-40 & Sam Cooper",
+    "lat": 35.1495,
+    "lon": -90.049,
+    "region": "South Central"
+  },
+  {
+    "slug": "murfreesboro.html",
+    "name": "Murfreesboro",
+    "state": "TN",
+    "emoji": "🎓",
+    "desc": "I-24 & US-231",
+    "lat": 35.8456,
+    "lon": -86.3903,
+    "region": "South Central"
+  },
+  {
+    "slug": "nashville.html",
+    "name": "Nashville",
+    "state": "TN",
+    "emoji": "🎸",
+    "desc": "I-40, I-65 & Briley Pkwy",
+    "lat": 36.1627,
+    "lon": -86.7816,
+    "region": "South Central"
+  },
+  {
+    "slug": "abilene.html",
+    "name": "Abilene",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-20 & US-83",
+    "lat": 32.4487,
+    "lon": -99.7331,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "allen.html",
+    "name": "Allen",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "US-75 & SH-121",
+    "lat": 33.1032,
+    "lon": -96.6706,
+    "region": "North Texas"
+  },
+  {
+    "slug": "amarillo.html",
+    "name": "Amarillo",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-40 & I-27",
+    "lat": 35.222,
+    "lon": -101.8313,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "arlington.html",
+    "name": "Arlington",
+    "state": "TX",
+    "emoji": "🏟️",
+    "desc": "I-30, I-20 & TX-360",
+    "lat": 32.7357,
+    "lon": -97.1081,
+    "region": "North Texas"
+  },
+  {
+    "slug": "austin.html",
+    "name": "Austin",
+    "state": "TX",
+    "emoji": "🎸",
+    "desc": "I-35, Mopac & US-183",
+    "lat": 30.2672,
+    "lon": -97.7431,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "baytown.html",
+    "name": "Baytown",
+    "state": "TX",
+    "emoji": "🛢️",
+    "desc": "I-10 & SH-146",
+    "lat": 29.7355,
+    "lon": -94.9774,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "beaumont.html",
+    "name": "Beaumont",
+    "state": "TX",
+    "emoji": "🛢️",
+    "desc": "I-10 & US-69",
+    "lat": 30.0802,
+    "lon": -94.1266,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "bedford.html",
+    "name": "Bedford",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "SH-183 & SH-121",
+    "lat": 32.844,
+    "lon": -97.1431,
+    "region": "North Texas"
+  },
+  {
+    "slug": "brownsville.html",
+    "name": "Brownsville",
+    "state": "TX",
+    "emoji": "🌵",
+    "desc": "I-69E & US-77",
+    "lat": 25.9017,
+    "lon": -97.4975,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "burleson.html",
+    "name": "Burleson",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-35W & SH-174",
+    "lat": 32.5421,
+    "lon": -97.3209,
+    "region": "North Texas"
+  },
+  {
+    "slug": "carrollton.html",
+    "name": "Carrollton",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-35E & President George Bush Tpke",
+    "lat": 32.9537,
+    "lon": -96.8903,
+    "region": "North Texas"
+  },
+  {
+    "slug": "cedar-hill.html",
+    "name": "Cedar Hill",
+    "state": "TX",
+    "emoji": "🌲",
+    "desc": "US-67 & FM-1382",
+    "lat": 32.5885,
+    "lon": -96.9561,
+    "region": "North Texas"
+  },
+  {
+    "slug": "cedar-park.html",
+    "name": "Cedar Park",
+    "state": "TX",
+    "emoji": "🎸",
+    "desc": "US-183 & SH-45",
+    "lat": 30.5052,
+    "lon": -97.8203,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "conroe.html",
+    "name": "Conroe",
+    "state": "TX",
+    "emoji": "🌲",
+    "desc": "I-45 & SH-105",
+    "lat": 30.3119,
+    "lon": -95.4561,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "corpus-christi.html",
+    "name": "Corpus Christi",
+    "state": "TX",
+    "emoji": "🌊",
+    "desc": "I-37, US-181 & SPID",
+    "lat": 27.8006,
+    "lon": -97.3964,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "dallas.html",
+    "name": "Dallas",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "US-75, I-635 & I-35E",
+    "lat": 32.7767,
+    "lon": -96.797,
+    "region": "North Texas"
+  },
+  {
+    "slug": "de-soto.html",
+    "name": "DeSoto",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-35E & US-67",
+    "lat": 32.5899,
+    "lon": -96.8571,
+    "region": "North Texas"
+  },
+  {
+    "slug": "denton.html",
+    "name": "Denton",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-35E & US-380",
+    "lat": 33.2148,
+    "lon": -97.1331,
+    "region": "North Texas"
+  },
+  {
+    "slug": "el-paso.html",
+    "name": "El Paso",
+    "state": "TX",
+    "emoji": "☀️",
+    "desc": "I-10 & Loop 375",
+    "lat": 31.7619,
+    "lon": -106.485,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "euless.html",
+    "name": "Euless",
+    "state": "TX",
+    "emoji": "✈️",
+    "desc": "SH-183 & SH-121",
+    "lat": 32.8371,
+    "lon": -97.0819,
+    "region": "North Texas"
+  },
+  {
+    "slug": "flower-mound.html",
+    "name": "Flower Mound",
+    "state": "TX",
+    "emoji": "🌳",
+    "desc": "FM-2499 & SH-121",
+    "lat": 33.0146,
+    "lon": -97.097,
+    "region": "North Texas"
+  },
+  {
+    "slug": "fort-worth.html",
+    "name": "Fort Worth",
+    "state": "TX",
+    "emoji": "🐂",
+    "desc": "I-35W, I-30 & Loop 820",
+    "lat": 32.7555,
+    "lon": -97.3308,
+    "region": "North Texas"
+  },
+  {
+    "slug": "frisco.html",
+    "name": "Frisco",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "Dallas North Tollway & Sam Rayburn",
+    "lat": 33.1507,
+    "lon": -96.8236,
+    "region": "North Texas"
+  },
+  {
+    "slug": "garland.html",
+    "name": "Garland",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-30, US-75 & George Bush Tpke",
+    "lat": 32.9126,
+    "lon": -96.6389,
+    "region": "North Texas"
+  },
+  {
+    "slug": "georgetown.html",
+    "name": "Georgetown",
+    "state": "TX",
+    "emoji": "🎸",
+    "desc": "I-35 & SH-29",
+    "lat": 30.6333,
+    "lon": -97.677,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "grand-prairie.html",
+    "name": "Grand Prairie",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-30, I-20 & SH-360",
+    "lat": 32.7459,
+    "lon": -96.9978,
+    "region": "North Texas"
+  },
+  {
+    "slug": "grapevine.html",
+    "name": "Grapevine",
+    "state": "TX",
+    "emoji": "✈️",
+    "desc": "SH-114 & SH-121",
+    "lat": 32.9343,
+    "lon": -97.0781,
+    "region": "North Texas"
+  },
+  {
+    "slug": "haltom-city.html",
+    "name": "Haltom City",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-820 & SH-26",
+    "lat": 32.7996,
+    "lon": -97.2692,
+    "region": "North Texas"
+  },
+  {
+    "slug": "houston.html",
+    "name": "Houston",
+    "state": "TX",
+    "emoji": "🚀",
+    "desc": "I-10, I-45 & Loop 610",
+    "lat": 29.7604,
+    "lon": -95.3698,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "irving.html",
+    "name": "Irving",
+    "state": "TX",
+    "emoji": "✈️",
+    "desc": "I-635 LBJ, SH-114 & DFW Connector",
+    "lat": 32.814,
+    "lon": -96.9489,
+    "region": "North Texas"
+  },
+  {
+    "slug": "keller.html",
+    "name": "Keller",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "US-377 & SH-170",
+    "lat": 32.9346,
+    "lon": -97.2517,
+    "region": "North Texas"
+  },
+  {
+    "slug": "killeen.html",
+    "name": "Killeen",
+    "state": "TX",
+    "emoji": "🎖️",
+    "desc": "I-14 & US-190",
+    "lat": 31.1171,
+    "lon": -97.7278,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "laredo.html",
+    "name": "Laredo",
+    "state": "TX",
+    "emoji": "🌵",
+    "desc": "I-35 & Loop 20",
+    "lat": 27.5306,
+    "lon": -99.4803,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "league-city.html",
+    "name": "League City",
+    "state": "TX",
+    "emoji": "🌊",
+    "desc": "I-45 & SH-96",
+    "lat": 29.5075,
+    "lon": -95.0949,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "lewisville.html",
+    "name": "Lewisville",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-35E & SH-121",
+    "lat": 33.0462,
+    "lon": -97.0329,
+    "region": "North Texas"
+  },
+  {
+    "slug": "little-elm.html",
+    "name": "Little Elm",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "US-380 & FM-423",
+    "lat": 33.1626,
+    "lon": -96.9375,
+    "region": "North Texas"
+  },
+  {
+    "slug": "lubbock.html",
+    "name": "Lubbock",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-27, US-84 & Loop 289",
+    "lat": 33.5779,
+    "lon": -101.8552,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "mansfield.html",
+    "name": "Mansfield",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "US-287 & SH-360",
+    "lat": 32.5632,
+    "lon": -97.1417,
+    "region": "North Texas"
+  },
+  {
+    "slug": "mcallen.html",
+    "name": "McAllen",
+    "state": "TX",
+    "emoji": "🌵",
+    "desc": "US-83 & I-2",
+    "lat": 26.2034,
+    "lon": -98.23,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "mckinney.html",
+    "name": "McKinney",
+    "state": "TX",
+    "emoji": "🌳",
+    "desc": "US-75 & SH-121",
+    "lat": 33.1972,
+    "lon": -96.6397,
+    "region": "North Texas"
+  },
+  {
+    "slug": "mesquite.html",
+    "name": "Mesquite",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "I-30, I-635 & US-80",
+    "lat": 32.7668,
+    "lon": -96.5992,
+    "region": "North Texas"
+  },
+  {
+    "slug": "midland.html",
+    "name": "Midland",
+    "state": "TX",
+    "emoji": "🛢️",
+    "desc": "I-20 & SH-158",
+    "lat": 31.9973,
+    "lon": -102.0779,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "new-braunfels.html",
+    "name": "New Braunfels",
+    "state": "TX",
+    "emoji": "🌮",
+    "desc": "I-35 & SH-46",
+    "lat": 29.703,
+    "lon": -98.1245,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "north-richland-hills.html",
+    "name": "North Richland Hills",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-820 & SH-26",
+    "lat": 32.8343,
+    "lon": -97.2289,
+    "region": "North Texas"
+  },
+  {
+    "slug": "odessa.html",
+    "name": "Odessa",
+    "state": "TX",
+    "emoji": "🛢️",
+    "desc": "I-20 & US-385",
+    "lat": 31.8457,
+    "lon": -102.3676,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "pasadena-tx.html",
+    "name": "Pasadena",
+    "state": "TX",
+    "emoji": "🚀",
+    "desc": "I-45 & SH-225",
+    "lat": 29.6911,
+    "lon": -95.2091,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "pearland.html",
+    "name": "Pearland",
+    "state": "TX",
+    "emoji": "🚀",
+    "desc": "SH-288 & Beltway 8",
+    "lat": 29.5636,
+    "lon": -95.286,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "plano.html",
+    "name": "Plano",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "US-75, Sam Rayburn Tollway & Bush Tpke",
+    "lat": 33.0198,
+    "lon": -96.6989,
+    "region": "North Texas"
+  },
+  {
+    "slug": "prosper.html",
+    "name": "Prosper",
+    "state": "TX",
+    "emoji": "🌳",
+    "desc": "US-380 & Dallas North Tollway",
+    "lat": 33.2362,
+    "lon": -96.8011,
+    "region": "North Texas"
+  },
+  {
+    "slug": "richardson.html",
+    "name": "Richardson",
+    "state": "TX",
+    "emoji": "💻",
+    "desc": "US-75 & President George Bush Tpke",
+    "lat": 32.9483,
+    "lon": -96.7299,
+    "region": "North Texas"
+  },
+  {
+    "slug": "rockwall.html",
+    "name": "Rockwall",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-30 & SH-205",
+    "lat": 32.9312,
+    "lon": -96.4597,
+    "region": "North Texas"
+  },
+  {
+    "slug": "round-rock.html",
+    "name": "Round Rock",
+    "state": "TX",
+    "emoji": "🎸",
+    "desc": "I-35 & SH-45",
+    "lat": 30.5083,
+    "lon": -97.6789,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "rowlett.html",
+    "name": "Rowlett",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "I-30 & President George Bush Tpke",
+    "lat": 32.9029,
+    "lon": -96.5639,
+    "region": "North Texas"
+  },
+  {
+    "slug": "san-angelo.html",
+    "name": "San Angelo",
+    "state": "TX",
+    "emoji": "🤠",
+    "desc": "US-67 & US-87",
+    "lat": 31.4638,
+    "lon": -100.437,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "san-antonio.html",
+    "name": "San Antonio",
+    "state": "TX",
+    "emoji": "🌮",
+    "desc": "Loop 410, Loop 1604 & I-35",
+    "lat": 29.4241,
+    "lon": -98.4936,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "sugar-land.html",
+    "name": "Sugar Land",
+    "state": "TX",
+    "emoji": "🍬",
+    "desc": "US-59 & SH-6",
+    "lat": 29.6197,
+    "lon": -95.6349,
+    "region": "Houston Area"
+  },
+  {
+    "slug": "temple.html",
+    "name": "Temple",
+    "state": "TX",
+    "emoji": "🏥",
+    "desc": "I-35 & SH-36",
+    "lat": 31.0982,
+    "lon": -97.3428,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "tyler.html",
+    "name": "Tyler",
+    "state": "TX",
+    "emoji": "🌹",
+    "desc": "I-20 & US-69",
+    "lat": 32.3513,
+    "lon": -95.3011,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "waco.html",
+    "name": "Waco",
+    "state": "TX",
+    "emoji": "🐻",
+    "desc": "I-35 & US-84",
+    "lat": 31.5493,
+    "lon": -97.1467,
+    "region": "Central Texas"
+  },
+  {
+    "slug": "wichita-falls.html",
+    "name": "Wichita Falls",
+    "state": "TX",
+    "emoji": "✈️",
+    "desc": "I-44 & US-287",
+    "lat": 33.9137,
+    "lon": -98.4934,
+    "region": "West / South Texas"
+  },
+  {
+    "slug": "wylie.html",
+    "name": "Wylie",
+    "state": "TX",
+    "emoji": "🏙️",
+    "desc": "SH-78 & President George Bush Tpke",
+    "lat": 33.0151,
+    "lon": -96.5389,
+    "region": "North Texas"
+  },
+  {
+    "slug": "ogden.html",
+    "name": "Ogden",
+    "state": "UT",
+    "emoji": "⛰️",
+    "desc": "I-15 & I-84",
+    "lat": 41.223,
+    "lon": -111.9738,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "provo.html",
+    "name": "Provo",
+    "state": "UT",
+    "emoji": "⛰️",
+    "desc": "I-15 & US-89",
+    "lat": 40.2338,
+    "lon": -111.6585,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "salt-lake-city.html",
+    "name": "Salt Lake City",
+    "state": "UT",
+    "emoji": "⛷️",
+    "desc": "I-15, I-80 & Bangerter",
+    "lat": 40.7608,
+    "lon": -111.891,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "st-george.html",
+    "name": "St. George",
+    "state": "UT",
+    "emoji": "🏜️",
+    "desc": "I-15 & Route 18",
+    "lat": 37.0965,
+    "lon": -113.5684,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "alexandria.html",
+    "name": "Alexandria",
+    "state": "VA",
+    "emoji": "🏛️",
+    "desc": "I-395, I-495 & Route 1",
+    "lat": 38.8048,
+    "lon": -77.0469,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "arlington-va.html",
+    "name": "Arlington",
+    "state": "VA",
+    "emoji": "🏛️",
+    "desc": "I-395, I-66 & Route 110",
+    "lat": 38.8816,
+    "lon": -77.091,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "chesapeake.html",
+    "name": "Chesapeake",
+    "state": "VA",
+    "emoji": "⚓",
+    "desc": "I-64, I-464 & Route 168",
+    "lat": 36.7682,
+    "lon": -76.2875,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "norfolk.html",
+    "name": "Norfolk",
+    "state": "VA",
+    "emoji": "⚓",
+    "desc": "I-64 Beltway & HRBT",
+    "lat": 36.8508,
+    "lon": -76.2859,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "richmond.html",
+    "name": "Richmond",
+    "state": "VA",
+    "emoji": "🏛️",
+    "desc": "I-95, I-64 & Powhite Pkwy",
+    "lat": 37.5407,
+    "lon": -77.436,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "virginia-beach.html",
+    "name": "Virginia Beach",
+    "state": "VA",
+    "emoji": "🌊",
+    "desc": "I-264 & VB Expy",
+    "lat": 36.8529,
+    "lon": -75.978,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "burlington.html",
+    "name": "Burlington",
+    "state": "VT",
+    "emoji": "🍁",
+    "desc": "I-89, US-7 & Williston Rd",
+    "lat": 44.4759,
+    "lon": -73.2121,
+    "region": "Northeast"
+  },
+  {
+    "slug": "montpelier.html",
+    "name": "Montpelier",
+    "state": "VT",
+    "emoji": "🍁",
+    "desc": "I-89 & Route 2",
+    "lat": 44.2601,
+    "lon": -72.5754,
+    "region": "Northeast"
+  },
+  {
+    "slug": "rutland.html",
+    "name": "Rutland",
+    "state": "VT",
+    "emoji": "🍁",
+    "desc": "US-4 & US-7",
+    "lat": 43.6106,
+    "lon": -72.9726,
+    "region": "Northeast"
+  },
+  {
+    "slug": "south-burlington.html",
+    "name": "South Burlington",
+    "state": "VT",
+    "emoji": "🏙️",
+    "desc": "I-89 & Route 7",
+    "lat": 44.467,
+    "lon": -73.171,
+    "region": "Northeast"
+  },
+  {
+    "slug": "bellevue.html",
+    "name": "Bellevue",
+    "state": "WA",
+    "emoji": "🏙️",
+    "desc": "I-405 & SR-520",
+    "lat": 47.6101,
+    "lon": -122.2015,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "bellingham.html",
+    "name": "Bellingham",
+    "state": "WA",
+    "emoji": "🌲",
+    "desc": "I-5 & SR-539",
+    "lat": 48.7519,
+    "lon": -122.4787,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "everett.html",
+    "name": "Everett",
+    "state": "WA",
+    "emoji": "⚓",
+    "desc": "I-5 & US-2",
+    "lat": 47.979,
+    "lon": -122.2021,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "federal-way.html",
+    "name": "Federal Way",
+    "state": "WA",
+    "emoji": "🏙️",
+    "desc": "I-5 & SR-18",
+    "lat": 47.3223,
+    "lon": -122.3126,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "kennewick.html",
+    "name": "Kennewick",
+    "state": "WA",
+    "emoji": "⚛️",
+    "desc": "I-82 & US-395",
+    "lat": 46.2112,
+    "lon": -119.1372,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "kent.html",
+    "name": "Kent",
+    "state": "WA",
+    "emoji": "🏭",
+    "desc": "I-5 & SR-167",
+    "lat": 47.3809,
+    "lon": -122.2348,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "olympia.html",
+    "name": "Olympia",
+    "state": "WA",
+    "emoji": "🏛️",
+    "desc": "I-5 & US-101",
+    "lat": 47.0379,
+    "lon": -122.9007,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "pasco.html",
+    "name": "Pasco",
+    "state": "WA",
+    "emoji": "🌾",
+    "desc": "I-182 & US-395",
+    "lat": 46.2396,
+    "lon": -119.1006,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "renton.html",
+    "name": "Renton",
+    "state": "WA",
+    "emoji": "✈️",
+    "desc": "I-405 & SR-167",
+    "lat": 47.4829,
+    "lon": -122.2171,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "seattle.html",
+    "name": "Seattle",
+    "state": "WA",
+    "emoji": "☕",
+    "desc": "I-5, I-90 & SR-520 Bridge",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "spokane.html",
+    "name": "Spokane",
+    "state": "WA",
+    "emoji": "🌲",
+    "desc": "I-90, US-2 & Division St",
+    "lat": 47.6588,
+    "lon": -117.426,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "spokane-valley.html",
+    "name": "Spokane Valley",
+    "state": "WA",
+    "emoji": "🌲",
+    "desc": "I-90 & Sprague Ave",
+    "lat": 47.6733,
+    "lon": -117.2394,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "tacoma.html",
+    "name": "Tacoma",
+    "state": "WA",
+    "emoji": "🌲",
+    "desc": "I-5 & SR-16",
+    "lat": 47.2529,
+    "lon": -122.4443,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "vancouver-wa.html",
+    "name": "Vancouver",
+    "state": "WA",
+    "emoji": "🌉",
+    "desc": "I-5 & I-205",
+    "lat": 45.6387,
+    "lon": -122.6615,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "yakima.html",
+    "name": "Yakima",
+    "state": "WA",
+    "emoji": "🍎",
+    "desc": "I-82 & US-12",
+    "lat": 46.6021,
+    "lon": -120.5059,
+    "region": "Pacific Northwest"
+  },
+  {
+    "slug": "green-bay.html",
+    "name": "Green Bay",
+    "state": "WI",
+    "emoji": "🧀",
+    "desc": "I-43 & US-41",
+    "lat": 44.5133,
+    "lon": -88.0133,
+    "region": "Midwest"
+  },
+  {
+    "slug": "kenosha.html",
+    "name": "Kenosha",
+    "state": "WI",
+    "emoji": "🌊",
+    "desc": "I-94 & Route 50",
+    "lat": 42.5847,
+    "lon": -87.8212,
+    "region": "Midwest"
+  },
+  {
+    "slug": "madison.html",
+    "name": "Madison",
+    "state": "WI",
+    "emoji": "🦡",
+    "desc": "Beltline Hwy & I-39/90",
+    "lat": 43.0731,
+    "lon": -89.4012,
+    "region": "Midwest"
+  },
+  {
+    "slug": "milwaukee.html",
+    "name": "Milwaukee",
+    "state": "WI",
+    "emoji": "🍺",
+    "desc": "I-94, I-43 & Marquette",
+    "lat": 43.0389,
+    "lon": -87.9065,
+    "region": "Midwest"
+  },
+  {
+    "slug": "charleston-wv.html",
+    "name": "Charleston",
+    "state": "WV",
+    "emoji": "🏔️",
+    "desc": "I-64, I-77 & Corridor G",
+    "lat": 38.3498,
+    "lon": -81.6326,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "huntington.html",
+    "name": "Huntington",
+    "state": "WV",
+    "emoji": "🎓",
+    "desc": "I-64 & Route 60",
+    "lat": 38.4192,
+    "lon": -82.4452,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "morgantown.html",
+    "name": "Morgantown",
+    "state": "WV",
+    "emoji": "🎓",
+    "desc": "I-79 & I-68",
+    "lat": 39.6295,
+    "lon": -79.9559,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "parkersburg.html",
+    "name": "Parkersburg",
+    "state": "WV",
+    "emoji": "🌊",
+    "desc": "I-77 & US-50",
+    "lat": 39.2667,
+    "lon": -81.5615,
+    "region": "Mid-Atlantic"
+  },
+  {
+    "slug": "casper.html",
+    "name": "Casper",
+    "state": "WY",
+    "emoji": "🏔️",
+    "desc": "I-25 & WY-220",
+    "lat": 42.8501,
+    "lon": -106.3252,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "cheyenne.html",
+    "name": "Cheyenne",
+    "state": "WY",
+    "emoji": "🤠",
+    "desc": "I-25, I-80 & US-30",
+    "lat": 41.14,
+    "lon": -104.8202,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "jackson-wy.html",
+    "name": "Jackson",
+    "state": "WY",
+    "emoji": "🏔️",
+    "desc": "US-26/89/191",
+    "lat": 43.4799,
+    "lon": -110.7624,
+    "region": "Mountain West"
+  },
+  {
+    "slug": "laramie.html",
+    "name": "Laramie",
+    "state": "WY",
+    "emoji": "🏔️",
+    "desc": "I-80 & US-287",
+    "lat": 41.3114,
+    "lon": -105.5911,
+    "region": "Mountain West"
+  }
+]

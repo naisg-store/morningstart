@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "marine-layer.html",
+    "category": "Coastal Weather",
+    "color": "var(--teal)",
+    "emoji": "🌫️",
+    "title": "Coastal Marine Layer & Fog",
+    "desc": "The marine layer is a shallow, cool, moist blanket of air that forms near the ocean surface..."
+  },
+  {
+    "slug": "morning-wind-driving.html",
+    "category": "Commuter Safety",
+    "color": "var(--amber)",
+    "emoji": "💨",
+    "title": "Navigating Morning Winds",
+    "desc": "Wind speed alone doesn't tell the whole story of how dangerous a gusty morning will be..."
+  },
+  {
+    "slug": "dew-point-humidity.html",
+    "category": "Weather Literacy",
+    "color": "var(--violet)",
+    "emoji": "🌡️",
+    "title": "Dew Point vs. Humidity",
+    "desc": "Two numbers on every forecast claim to describe 'how muggy it feels' — only one of them actually does..."
+  }
+]
