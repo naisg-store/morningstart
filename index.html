@@ -606,6 +606,52 @@
     .split-val-large, .split-val-small { font-size: 34px; }
   }
 
+  /* ---------- Hourly Carousel (Hero Wave) ---------- */
+.hourly-carousel {
+  display: flex;
+  align-items: flex-end; /* Keeps the bottoms aligned to form a wave */
+  justify-content: center;
+  gap: 24px;
+  width: 100%;
+  padding: 20px 0;
+  overflow: hidden;
+}
+.hourly-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+}
+.hourly-item .temp {
+  font-weight: 800;
+  color: var(--text);
+  line-height: 0.9;
+}
+.hourly-item .time {
+  font-size: 14px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 10px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* Fading & Scaling exactly like your MS Paint */
+.hourly-item.past, .hourly-item.future-far { 
+  opacity: 0.15; 
+  font-size: 40px; 
+}
+.hourly-item.future-near { 
+  opacity: 0.4; 
+  font-size: 60px; 
+}
+.hourly-item.current {
+  opacity: 1;
+  font-size: 120px; /* Massive white hero temperature */
+  color: #ffffff; 
+}
+
   a{color:var(--cyan);}
   :focus-visible{outline:2px solid var(--cyan);outline-offset:2px;}
 </style>
